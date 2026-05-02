@@ -1,0 +1,644 @@
+year,finish,horse,jockey,trainer,pp,odds,pos_quarter,pos_half,pos_3q,pos_1m,pos_stretch,pos_finish,frac_quarter,frac_half,frac_3q,frac_1m,final_time,track_condition,sire,dam,dam_sire,comments
+1991,1,Strike the Gold,"Antley, Chris","Zito, Nicholas",5,4.80,11,12,10,6,1,1,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,Alydar,Majestic Gold,Hatchet Man,"6w rally,driftd,drvg"
+1991,2,Best Pal,"Stevens, Gary","Jory, Ian",15,5.20,9,8,7,3,2,2,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,angled inside fin well
+1991,3,Mane Minister,"Solis, Alex","Gonzalez, J.",10,86.90,7,10,5,2,3,3,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"five wide, fin well"
+1991,4,Green Alligator,"Nakatani, Corey","Johnson, Murray",8,16.30,16,16,15,6,4,4,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,angled out late
+1991,5,Fly So Free,"Santos, Jose","Schulhofer, Flint",1,3.30,4,4,3,4,4,5,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"came in 1/2, no rally"
+1991,6,Quintana,"Cordero, Angel","Cross, David",16,28.50,12,13,12,10,7,6,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"shuffled back,fin well"
+1991,7,Paulrus,"Sellers, Shane","Penrod, Steven",11,16.30,14,14,14,13,8,7,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,closed well inside
+1991,8,Sea Cadet,"McCarron, Chris","McAnally, Ronald",4,15.90,1,1,1,1,5,8,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,set pace upper str
+1991,9,Corporate Report,"Day, Pat","Lukas, D.",12,8.70,2,3,4,2,9,9,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"pressed pace, weakened"
+1991,10,Hansel,"Bailey, Jerry","Brothers, Frank",6,2.50,6,6,7,3,10,10,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,gave way readily
+1991,11,Happy Jazz Band,"Asmussen, Cash","Gleaves, Philip",14,107.80,13,11,11,14,11,11,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,passed tiring rivals
+1991,12,Lost Mountain,"McCauley, Herb","Bohannan, Thomas",9,72.60,8,7,9,8,12,12,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"steadied 1/2,tired"
+1991,13,Another Review,"Madrid, Art","Campo, John",13,16.30,10,9,13,12,13,13,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,failed to menace
+1991,14,Alydavid,"Black, Corey","Hauswald, Philip",2,17.80,5,5,6,11,14,14,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"bumped, tired"
+1991,15,Wilder Than Ever,"Deegan, Joseph","Churchman, John",3,16.30,15,15,16,15,15,15,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,failed to menace
+1991,16,Forty Something,"Seefeldt, Andrea","Vardon, Reginald",7,16.30,3,2,2,16,16,16,23.26,46.58,1:11.35,1:37.51,2:03.08,Fast,,,,"dueled, stopped"
+1992,1,Lil E. Tee,"Day, Pat","Whiting, Lynn",10,16.80,11,10,10,5,2,1,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,At the Threshold,Eileen's Moment,For The Moment,"circled field,driving"
+1992,2,Casual Lies,"Stevens, Gary","Riley, Shelley",4,29.90,3,6,4,3,1,2,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"gamely, second best"
+1992,3,Dance Floor,"Antley, Chris","Lukas, D.",16,33.30,5,1,1,1,3,3,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"set pace, gave way"
+1992,4,Conte Di Savoya,"Sellers, Shane","Jolley, LeRoy",8,21.30,12,11,8,7,6,4,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"settled, late rally"
+1992,5,Pine Bluff,"Perret, Craig","Bohannan, Thomas",12,10.50,4,4,2,4,4,5,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"well placed, tired"
+1992,6,Al Sabin,"Nakatani, Corey","Lukas, D.",1,33.30,6,5,5,6,7,6,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"well placed, no rally"
+1992,7,Dr Devious (IRE),"McCarron, Chris","McAnally, Ronald",15,20.80,15,15,17,11,8,7,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,passed tiring rivals
+1992,8,Arazi,"Valenzuela, Patrick","Boutin, Francois",17,0.90,17,16,11,2,5,8,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"bid, weakened"
+1992,9,My Luck Runs North,"Lopez, Ricardo","Medina, Angel",14,12.80,18,18,18,17,9,9,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,passed tiring rivals
+1992,10,Technology,"Bailey, Jerry","Hine, Hubert",2,4.20,7,9,9,8,10,10,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"pinched back, tired"
+1992,11,West by West,"Samyn, Jean-Luc","Arnold, George",11,12.80,13,14,12,9,11,11,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,passed tiring rivals
+1992,12,Devil His Due,"Smith, Mike","Jerkens, H.",6,21.60,2,3,7,10,12,12,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"pressed pace, tired"
+1992,13,Thyer,"Roche, Christy","Bolger, Jim",5,12.80,10,12,14,15,15,13,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,failed to menace
+1992,14,Ecstatic Ride,"Krone, Julie","Griffitt, D.",13,12.80,14,13,13,12,13,14,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"wide, showed little"
+1992,15,Sir Pinder,"Romero, Randy","Tortora, Emanuel",9,12.80,16,17,16,14,14,15,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"saved ground,no factor"
+1992,16,Pistols and Roses,"Vasquez, Jacinto","Gianos, George",7,13.40,8,7,6,16,16,16,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"well placed, tired"
+1992,17,Snappy Landing,"Velasquez, Jorge","Manning, Dennis",3,12.80,11,3,3,13,17,17,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"set pace, faded"
+1992,18,Disposal,"Solis, Alex","Headley, Bruce",18,12.80,9,8,15,18,18,18,23.44,47.90,1:12.37,1:37.72,2:03.04,Fast,,,,"5 wide early, tired"
+1993,1,Sea Hero,"Bailey, Jerry","Miller, MacKenzie",6,12.90,13,12,11,8,1,1,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,Polish Navy,Glowing Tribute,Graustark,angled inside driving
+1993,2,Prairie Bayou,"Smith, Mike","Bohannan, Thomas",5,4.40,16,16,16,6,4,2,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"circled, 6 wide"
+1993,3,Wild Gale,"Sellers, Shane","Doyle, Michael",13,8.50,12,13,13,7,3,3,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,steadied 1/4 pole
+1993,4,Personal Hope,"Stevens, Gary","Hennig, Mark",7,8.20,2,2,2,1,2,4,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"led, weakened"
+1993,5,Diazo,"Desormeaux, Kent","Shoemaker, William",18,17.40,10,11,10,4,5,5,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"bid, hung"
+1993,6,Corby,"McCarron, Chris","Sadler, John",17,17.40,4,5,5,3,6,6,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"drew even, weakened"
+1993,7,Kissin Kris,"Santos, Jose","Bell, David",2,16.30,18,11,9,18,8,7,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"rallied, widest"
+1993,8,Silver of Silver,"Vasquez, Jacinto","Shapoff, Stanley",9,8.50,14,15,14,17,9,8,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,lacked late response
+1993,9,Ragtime Rebel,"Lester, Robert","Darnell, Cliff",14,8.50,17,17,18,15,14,9,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"off slowly,mild gain"
+1993,10,Truth of It All,"Velasquez, Jorge","Wolfe, Sheldon",3,48.50,19,18,17,13,10,10,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,passed tiring rivals
+1993,11,Bull Inthe Heather,"Ramos, Wigberto","Tesher, Howard",10,5.20,8,9,7,9,11,11,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,lacked rally
+1993,12,Dixieland Heat,"Romero, Randy","Romero, Gerald",15,20.80,7,8,8,11,12,12,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"saved ground,no rally"
+1993,13,Wallenda,"Day, Pat","Alexander, Frank",16,12.50,15,14,15,16,16,13,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,wide trip
+1993,14,Mi Cielo,"Gryder, Aaron","Vestal, Peter",12,8.50,11,10,9,12,13,14,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"inside,no rally"
+1993,15,Union City,"Valenzuela, Patrick","Lukas, D.",4,5.90,6,6,6,2,7,15,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"pressed pace, tired"
+1993,16,Storm Tower,"Wilson, Rick","Perkins, Benjamin",1,9.00,1,1,1,5,15,16,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"set pace, tired"
+1993,17,Rockamundo,"Borel, Calvin","Glass, Orin",8,10.20,3,3,3,10,17,17,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"pressed pace, tired"
+1993,18,El Bakan,"Perret, Craig","Callejas, Alfredo",19,8.50,9,7,12,19,19,18,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,"speed, stopped"
+1993,19,Tossofthecoin,"Pincay, Laffit","Bell, Thomas",11,8.50,5,4,4,14,18,19,22.80,46.63,1:11.22,1:36.96,2:02.42,Fast,,,,close for 3/4 stopped
+1994,1,Go for Gin,"McCarron, Chris","Zito, Nicholas",8,9.10,2,1,1,1,1,1,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,Cormorant,Never Knock,Stage Door Johnny,"drew off, drifted"
+1994,2,Strodes Creek,"Delahoussaye, Eddie","Whittingham, Charles",7,7.90,8,2,10,7,3,2,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,finished well 6 wide
+1994,3,Blumin Affair,"Bailey, Jerry","Van Berg, Jack",13,14.90,11,11,3,8,6,4,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,4
+1994,4,Brocco,"Stevens, Gary","Winick, Randy",10,4.30,9,6,7,4,2,4,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,"off slowly, no rally"
+1994,5,Soul of the Matter,"Desormeaux, Kent","Mandella, Richard",1,16.90,12,8,10,9,8,5,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,in tight stretch
+1994,6,Tabasco Cat,"Day, Pat","Lukas, D.",9,6.10,5,4,5,5,7,6,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,"well placed, no rally"
+1994,7,Southern Rhythm,"Gomez, Garrett","Keefer, James",12,20.00,14,13,13,10,9,7,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,best stride late
+1994,8,Powis Castle,"Antley, Chris","Rash, Rodney",3,20.30,3,2,3,2,6,8,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,"prompted pace, tired"
+1994,9,Mahogany Hall,"Martinez, Willie","Baker, James",6,16.70,13,14,14,12,12,9,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,"steadied,late rally"
+1994,10,Smilin Singin Sam,"Melancon, Larry","O'Callaghan, Niall",11,16.70,10,9,2,3,8,10,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,"quick move wide,tired"
+1994,11,Meadow Flight,"Sellers, Shane","Ryerson, James",14,16.70,7,12,12,11,11,11,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,forced wide lst turn
+1994,12,Holy Bull,"Smith, Mike","Croll, Warren",4,2.20,6,2,5,6,9,10,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,12
+1994,13,Valiant Nature,"Pincay, Laffit","McAnally, Ronald",2,12.00,4,2,7,11,13,13,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,11
+1994,14,Ulises,"Chavez, Jorge","Callejas, Alfredo",5,16.70,1,2,4,14,14,14,22.97,47.21,1:11.98,1:37.72,2:03.72,Sloppy,,,,"speed, stopped"
+1995,1,Thunder Gulch,"Stevens, Gary","Lukas, D.",16,24.50,6,5,4,2,1,1,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,Gulch,Line of Thunder,Storm Bird,drew clear ridden out
+1995,2,Tejano Run,"Bailey, Jerry","McPeek, Kenneth",14,8.60,12,12,11,8,3,2,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"split horses, bumped"
+1995,3,Timber Country,"Day, Pat","Lukas, D.",15,3.40,14,13,10,10,6,3,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"settled, saved ground"
+1995,4,Jumron (GB),"Almeida, G.","Lewis, Gary",10,5.60,8,9,9,4,5,4,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"middle move, bumped"
+1995,5,Mecke,"Davis, Robbie","Tortora, Emanuel",18,11.60,17,16,9,14,2,7,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,5
+1995,6,Eltish,"Delahoussaye, Eddie","Cecil, Henry",7,10.90,10,10,13,9,9,6,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"angled 5w, mild bid"
+1995,7,Knockadoon,"McCarron, Chris","Reinstedler, Anthony",2,11.60,19,19,18,13,11,7,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,advanced late steadied
+1995,8,Afternoon Deelites,"Desormeaux, Kent","Mandella, Richard",12,8.70,7,8,6,5,10,8,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"stalked pace, 5w"
+1995,9,Citadeed,"Maple, Eddie","Chapple-Hyam, Peter",19,11.60,3,4,3,6,8,9,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"pressed pace, faded"
+1995,10,In Character (GB),"Antley, Chris","Jackson, Bruce",9,11.60,16,15,15,12,13,10,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"steadied, 7w stretch"
+1995,11,Suave Prospect,"Krone, Julie","Zito, Nicholas",6,13.10,9,11,12,7,12,11,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,angled widest stretch
+1995,12,Talkin Man,"Smith, Mike","Attfield, Roger",11,4.00,4,3,5,3,2,12,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"strong factr, weakened"
+1995,13,Dazzling Falls,"Gomez, Garrett","Turco, Chuck",1,27.60,13,14,17,18,16,13,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"outrun, angld widest"
+1995,14,Ski Captain,"Take, Yutaka","Mori, Hideyuki",17,11.60,18,17,16,15,14,14,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"steadied, no rally"
+1995,15,Jambalaya Jazz,"Perret, Craig","Ward, John",5,18.00,15,18,14,17,15,15,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,checked 2nd turn
+1995,16,Serena's Song,"Nakatani, Corey","Lukas, D.",13,3.40,1,1,1,1,4,16,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,set pressured pace
+1995,17,Pyramid Peak,"McCauley, Herb","Ward, John",3,18.00,5,6,8,11,17,17,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"close up, gave way"
+1995,18,Lake George,"Sellers, Shane","Orman, J.",8,11.60,11,7,7,16,18,18,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,always outrun
+1995,19,Wild Syn,"Romero, Randy","Arnemann, Thomas",4,18.80,2,2,2,19,19,19,22.57,45.89,1:10.33,1:35.72,2:01.27,Fast,,,,"speed, eased late"
+1996,1,Grindstone,"Bailey, Jerry","Lukas, D.",15,5.90,15,15,13,8,4,1,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,Unbridled,Buzz My Bell,Drone,angld out just up late
+1996,2,Cavonnier,"McCarron, Chris","Baffert, Bob",4,5.60,9,5,5,3,1,2,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"clear, outfinished"
+1996,3,Prince of Thieves,"Day, Pat","Lukas, D.",10,7.00,12,12,10,4,5,3,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,thru inside fnshd well
+1996,4,Halo Sunshine,"Perret, Craig","Cross, Richard",5,28.90,7,4,4,2,3,4,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,savd ground lacked bid
+1996,5,Unbridled's Song,"Smith, Mike","Ryerson, James",19,3.50,3,3,2,1,2,5,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,set pace weakened
+1996,6,Editor's Note,"Stevens, Gary","Lukas, D.",17,5.90,16,16,16,13,8,6,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,bid wide trn mild gain
+1996,7,Blow Out,"Johnson, Patrick","Keefer, James",1,10.80,19,19,15,12,7,7,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"late rally, steadied"
+1996,8,Alyrob,"Nakatani, Corey","Dollase, Wallace",12,7.20,14,13,14,10,6,8,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,mild rally
+1996,9,Diligence,"Desormeaux, Kent","Zito, Nicholas",3,13.10,17,17,17,14,9,9,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,passed tiring rivals
+1996,10,Victory Speech,"Santos, Jose","Lukas, D.",2,24.80,11,8,9,6,10,10,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"close up, tired"
+1996,11,Corker,"Black, Corey","Whittingham, Charles",9,10.80,18,18,18,16,13,11,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,lunged start shut off
+1996,12,Skip Away,"Sellers, Shane","Hine, Hubert",16,7.70,5,6,8,7,12,12,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,close up no rally
+1996,13,Zarb's Magic,"Ardoin, Ronald","Thomas, W.",7,25.70,8,9,7,11,11,13,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"bid 3/4, flattened"
+1996,14,Semoran,"Baze, Russell","Baffert, Bob",6,5.60,6,10,11,15,15,14,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,speed for half
+1996,15,In Contention,"Black, Anthony","Reese, Cynthia",8,19.80,13,14,9,19,18,15,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,always outrun
+1996,16,Louis Quatorze,"Antley, Chris","Zito, Nicholas",11,13.10,10,11,12,17,16,16,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"bumpd, dull effort"
+1996,17,Matty G,"Solis, Alex","McAnally, Ronald",18,10.80,2,1,3,9,14,17,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"pressed pace, gave way"
+1996,18,Honour and Glory,"Gryder, Aaron","Lukas, D.",13,24.80,1,1,1,5,17,18,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"pressed pace, stopped"
+1996,19,Built for Pleasure,"Velazquez, John","Heard, Thomas",14,10.80,4,7,6,18,19,19,22.34,46.09,1:10.15,1:35.16,2:01.06,Fast,,,,"brief speed, gave way"
+1997,1,Silver Charm,"Stevens, Gary","Baffert, Bob",5,4.00,6,4,4,3,1,1,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,Silver Buck,Bonnie's Poker,Poker,"steadied, brushd lastd"
+1997,2,Captain Bodgit,"Solis, Alex","Capuano, Gary",4,3.10,9,8,6,5,3,2,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,"brushed, missed"
+1997,3,Free House,"Flores, David","Gonzalez, J.",13,10.60,1,2,2,1,2,3,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,"dueled, weakened"
+1997,4,Pulpit,"Sellers, Shane","Brothers, Frank",7,5.70,2,1,1,2,4,4,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,"dueld inside, weakened"
+1997,5,Crypto Star,"Day, Pat","Catalano, Wayne",1,4.80,12,6,12,4,11,7,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,5
+1997,6,Phantom On Tour,"Bailey, Jerry","Whiting, Lynn",2,19.50,7,5,5,4,5,6,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,"pressed pace, tired"
+1997,7,Jack Flash,"Perret, Craig","Zito, Nicholas",9,20.90,11,11,10,10,6,7,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,finished well 5wide
+1997,8,Hello (IRE),"Smith, Mike","McAnally, Ronald",8,9.60,10,3,10,8,7,8,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,failed to menace
+1997,9,Concerto,"Marquez, Carlos","Tammaro, John",3,10.80,3,3,3,6,9,9,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,checked sharply 1sttrn
+1997,10,Celtic Warrior,"Torres, Francisco","Hutt, Danny",6,37.10,13,13,13,12,10,10,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,passed tiring rivals
+1997,11,Crimson Classic,"Albarado, Robby","Kaelin, Forrest",12,80.10,5,1,6,7,2,8,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,11
+1997,12,Shammy Davis,"Martinez, Willie","Zito, Nicholas",10,20.90,4,7,11,13,13,12,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,"fractous, forced out"
+1997,13,Deeds Not Words,"Nakatani, Corey","Lukas, D.",11,32.40,8,9,9,9,12,13,23.57,47.55,1:12.23,1:37.31,2:02.44,Fast,,,,"forced out, widst late"
+1998,1,Real Quiet,"Desormeaux, Kent","Baffert, Bob",3,8.40,8,6,6,1,1,1,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,Quiet American,Really Blue,Believe It,"led mile, lasted"
+1998,2,Victory Gallop,"Solis, Alex","Walden, W.",13,14.60,14,15,14,7,3,2,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"rallied, gaining"
+1998,3,Indian Charlie,"Stevens, Gary","Baffert, Bob",8,2.70,4,5,4,2,2,3,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"rallied, tired late"
+1998,4,Halory Hunter,"Nakatani, Corey","Zito, Nicholas",4,6.60,15,12,12,6,5,4,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,mild late gain
+1998,5,Cape Town,"Bailey, Jerry","Lukas, D.",11,4.60,6,8,8,4,4,5,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,mild late gain
+1998,6,Parade Ground,"Sellers, Shane","Howard, Neil",10,22.30,13,13,13,10,6,6,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,passed tiring rivals
+1998,7,Hanuman Highway(IRE),"Flores, David","Walsh, Kathy",6,22.50,9,9,7,9,8,7,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"well placed, gave way"
+1998,8,Favorite Trick,"Day, Pat","Mott, William",7,4.40,5,4,5,5,7,8,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"bid, tired badly"
+1998,9,Nationalore,"Almeida, G.","Cho, Myung",1,109.60,12,14,15,11,9,9,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,failed to menace
+1998,10,Old Trieste,"Albarado, Robby","Puype, Mike",14,32.10,2,1,1,3,10,10,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"stumbled, led, tired"
+1998,11,Chilito,"Boulanger, Gary","Motion, H.",5,34.80,3,2,3,8,11,11,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,factor for 3/4's
+1998,12,Robinwould,"Fires, Earlie","Calvin, Jerry",15,69.80,7,7,9,13,12,12,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"wide, tired badly"
+1998,13,Artax,"McCarron, Chris","Bradshaw, Randy",12,11.50,10,10,10,12,13,13,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"bid, tired badly"
+1998,14,Rock and Roll,"Torres, Francisco","Mott, William",9,50.60,1,2,2,15,14,14,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,"speed, stopped badly"
+1998,15,Basic Trainee,"Velazquez, John","Romero, Jorge",2,69.80,11,11,11,14,15,15,22.75,45.75,1:10.62,1:35.61,2:02.38,Fast,,,,checkd sharply 2ndturn
+1999,1,Charismatic,"Antley, Chris","Lukas, D.",16,31.30,7,7,7,3,2,1,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,Summer Squall,Bali Babe,Drone,"5-wide trip,driving"
+1999,2,Menifee,"Day, Pat","Walden, W.",18,7.00,14,17,15,14,6,2,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"traffic, strong bid"
+1999,3,Cat Thief,"Smith, Mike","Lukas, D.",10,7.40,2,2,2,1,1,3,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"stalked, led, gamely"
+1999,4,Prime Timber,"Flores, David","Baffert, Bob",13,6.30,10,11,11,5,4,4,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,forced out 1/16 pole
+1999,5,Excellent Meeting,"Desormeaux, Kent","Baffert, Bob",5,4.80,18,18,16,13,9,5,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"7-wide stretch,gaining"
+1999,6,Kimberlite Pipe,"Albarado, Robby","Stewart, Dallas",12,11.60,8,8,9,7,5,6,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,forced out last 1/16
+1999,7,Worldly Manner,"Bailey, Jerry","bin Suroor, Saeed",11,14.50,3,3,3,2,3,7,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"stalked,bid,weakened"
+1999,8,K One King,"Solis, Alex","Gothard, Akiko",9,11.60,19,19,18,16,13,8,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"outrun early,mild gain"
+1999,9,Lemon Drop Kid,"Santos, Jose","Schulhofer, Flint",19,11.60,13,16,17,15,15,9,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"no threat,8wide,drive"
+1999,10,Answer Lively,"Perret, Craig","Barnett, Bobby",7,37.00,6,5,4,6,7,10,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,steadied both turns
+1999,11,General Challenge,"Stevens, Gary","Baffert, Bob",14,4.80,12,12,12,10,10,11,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"bumped start,steadied"
+1999,12,Ecton Park,"Davis, Robbie","Walden, W.",3,11.60,16,15,13,18,5,16,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,12
+1999,13,Desert Hero,"Nakatani, Corey","Mandella, Richard",6,19.70,5,6,6,9,11,13,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"bumped, both turns"
+1999,14,Stephen Got Even,"McCarron, Chris","Zito, Nicholas",4,5.10,4,4,8,12,14,14,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"steadied bump,1st turn"
+1999,15,Valhol,"Martinez, Willie","Keen, Dallas",8,11.60,1,1,1,4,12,15,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"pace, gave way"
+1999,16,First American,"Delahoussaye, Eddie","Caramori, Eduardo",15,34.90,15,13,15,8,8,16,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"lunged air, off slowly"
+1999,17,Adonis,"Chavez, Jorge","Zito, Nicholas",1,18.70,17,14,19,17,18,17,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"bumped,shuffled,wide"
+1999,18,Vicar,"Sellers, Shane","Nafzger, Carl",17,8.20,11,9,14,11,17,18,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"6wide trip, no threat"
+1999,19,Three Ring,"Velazquez, John","Plesa, Edward",2,25.60,9,10,10,19,19,19,23.52,47.88,1:12.52,1:37.58,2:03.29,Fast,,,,"bumped brk,stead early"
+2000,1,Fusaichi Pegasus,"Desormeaux, Kent","Drysdale, Neil",15,2.30,15,13,11,6,1,1,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,Mr. Prospector,Angel Fever,Danzig,"angle 7wide,hand urged"
+2000,2,Aptitude,"Solis, Alex","Frankel, Robert",2,11.80,13,14,10,8,4,2,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"bid 3/16s, 2nd best"
+2000,3,Impeachment,"Perret, Craig","Pletcher, Todd",14,6.20,19,19,17,13,7,3,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"rallied, rail"
+2000,4,More Than Ready,"Velazquez, John","Pletcher, Todd",9,11.30,3,3,3,4,2,4,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"rail bid 1/4,emptylate"
+2000,5,Wheelaway,"Migliore, Richard","Kimmel, John",3,20.80,6,8,7,5,3,5,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,lugged in 3/16s
+2000,6,China Visit,"Dettori, Lanfranco","bin Suroor, Saeed",11,23.70,12,11,9,7,6,6,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"7wide bid,bumped 1/16"
+2000,7,Curule,"St. Julien, Marlon","bin Suroor, Saeed",18,23.70,14,15,16,9,8,7,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"angled out, no bid"
+2000,8,Captain Steve,"Albarado, Robby","Baffert, Bob",7,8.10,7,6,6,1,5,8,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"bid,led,bothered 3/16s"
+2000,9,War Chant,"Bailey, Jerry","Drysdale, Neil",8,9.90,11,10,12,14,10,9,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"tired, 2nd turn"
+2000,10,Deputy Warlock,"Guidry, Mark","McPeek, Kenneth",6,20.80,17,17,18,18,14,10,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,very wide stretch
+2000,11,Trippi,"Chavez, Jorge","Pletcher, Todd",5,16.20,2,2,2,2,9,11,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"dueled, tired stretch"
+2000,12,Exchange Rate,"Borel, Calvin","Lukas, D.",16,59.20,5,7,8,12,12,12,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"wide, tired after 7/8s"
+2000,13,Anees,"Nakatani, Corey","Hassinger, Alex",1,17.10,16,16,15,11,11,13,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"awkward,swerve start"
+2000,14,The Deputy (IRE),"McCarron, Chris","Sahadi, Jenine",10,4.60,9,12,14,17,16,14,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"wide trip, no bid"
+2000,15,High Yield,"Day, Pat","Lukas, D.",17,6.20,8,5,5,10,15,15,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"bumpd start,wide,tire"
+2000,16,Hal's Hope,"Velez, Roger","Rose, Harold",4,22.70,1,1,1,3,13,16,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"dueled, tired"
+2000,17,Commendable,"Prado, Edgar","Lukas, D.",12,6.20,10,9,13,16,17,17,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"wide, trip, gave way"
+2000,18,Ronton,"Blanc, Brice","Cerin, Vladimir",19,20.80,18,18,19,19,19,18,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"off slow, outrun"
+2000,19,Graeme Hall,"Sellers, Shane","Pletcher, Todd",13,46.30,4,4,4,15,18,--,22.47,45.99,1:09.99,1:35.74,2:01.12,Fast,,,,"gave way, eased"
+2001,1,Monarchos,"Chavez, Jorge","Ward, John",16,10.50,13,13,10,6,2,1,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,Maria's Mon,Regal Band,Dixieland Band,"bmp start,rally 6wide"
+2001,2,Invisible Ink,"Velazquez, John","Pletcher, Todd",13,55.00,9,9,9,5,3,2,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"between,all out, 5-6w"
+2001,3,Congaree,"Espinoza, Victor","Baffert, Bob",8,7.20,5,5,5,1,1,3,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"stalk,5w,weakened"
+2001,4,Thunder Blitz,"Prado, Edgar","Orseno, Joseph",4,25.40,11,10,8,7,6,4,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"bmp break, empty lane"
+2001,5,Point Given,"Stevens, Gary","Baffert, Bob",17,1.80,6,7,7,2,4,5,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"broke in bmp,flattened"
+2001,6,Jamaican Rum,"Delahoussaye, Eddie","Cassidy, James",15,20.20,17,16,15,12,6,7,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,6
+2001,7,A P Valentine,"Nakatani, Corey","Zito, Nicholas",9,19.90,12,3,12,13,14,7,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,4
+2001,8,Express Tour,"Flores, David","bin Suroor, Saeed",6,18.10,8,4,6,3,5,8,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"well placed,weakened"
+2001,9,Fifty Stars,"Meche, Donnie","Asmussen, Steven",5,43.60,16,17,16,13,9,9,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"angle out 1/8p,no bid"
+2001,10,Startac,"Solis, Alex","Bray, Simon",12,102.40,10,11,11,10,10,10,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"outrun,7-8,no bid"
+2001,11,Millennium Wind,"Pincay, Laffit","Hofmans, David",2,9.90,4,4,3,8,8,11,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"ck, lack room 5/16s"
+2001,12,Arctic Boy,"Borel, Calvin","Richey, Tony",7,101.20,15,14,12,11,11,12,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"in tght start,no bid"
+2001,13,Songandaprayer,"Gryder, Aaron","Dowd, John",1,35.90,1,1,1,4,12,13,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"hustled inside,faded"
+2001,14,Balto Star,"Guidry, Mark","Pletcher, Todd",3,8.30,2,2,2,9,13,14,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"forced pace, faded"
+2001,15,Dollar Bill,"Day, Pat","Stewart, Dallas",10,6.60,14,15,14,16,15,15,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,taken up sharply 3/8s
+2001,16,Keats,"Melancon, Larry","O'Callaghan, Niall",14,95.00,3,3,4,15,16,16,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,gave way readily
+2001,17,Talk Is Money,"Bailey, Jerry","Scanlan, John",11,47.10,7,8,17,--,--,--,22.25,44.86,1:09.25,1:35.00,1:59.97,Fast,,,,"bmp,distanced eased"
+2002,1,War Emblem,"Espinoza, Victor","Baffert, Bob",5,20.50,1,1,1,1,1,1,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,Our Emblem,Sweetest Lady,Lord At War (ARG),"pace, 3w,hand urging"
+2002,2,Proud Citizen,"Smith, Mike","Lukas, D.",12,23.30,2,2,2,3,2,2,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"stalked,4w,no match"
+2002,3,Perfect Drift,"Delahoussaye, Eddie","Johnson, Murray",3,7.90,4,3,3,2,3,3,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"check 3/16s,angle out"
+2002,4,Medaglia d'Oro,"Pincay, Laffit","Frankel, Robert",9,6.90,10,9,7,8,6,4,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,bobble bmp start
+2002,5,Request for Parole,"Albarado, Robby","Margolis, Steve",7,29.80,6,5,5,5,5,5,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"between,held position"
+2002,6,Came Home,"McCarron, Chris","Gonzalez, J.",14,8.20,3,4,4,4,4,6,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"stalked,6w,flatten out"
+2002,7,Harlan's Holiday,"Prado, Edgar","McPeek, Kenneth",13,6.00,9,11,8,6,7,7,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"5w bid,no late gain"
+2002,8,Johannesburg,"Stevens, Gary","O'Brien, Aidan",1,8.10,11,10,10,9,8,8,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"inside trip,no rally"
+2002,9,Essence of Dubai,"Flores, David","bin Suroor, Saeed",8,10.00,13,12,12,7,9,9,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"bmp start, 3/16s"
+2002,10,Saarland,"Velazquez, John","McGaughey, Claude",15,6.90,17,17,14,16,13,10,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,improved position
+2002,11,Blue Burner,"Day, Pat","Mott, William",18,24.20,5,8,9,10,11,11,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"5-6w,weakened"
+2002,12,Castle Gandolfo,"Bailey, Jerry","O'Brien, Aidan",11,14.50,15,15,15,14,12,12,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,failed to menace
+2002,13,Easy Grades,"Chavez, Jorge","West, Ted",17,43.80,12,14,16,11,14,13,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,lean in bmp start
+2002,14,Private Emblem,"Meche, Donnie","Asmussen, Steven",10,22.40,7,7,11,12,10,14,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"weakened,far turn"
+2002,15,Lusty Latin,"Corbett, Glenn","Mullins, Jeff",4,22.10,18,18,18,18,18,15,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"passed tired foes,wide"
+2002,16,It'sallinthechase,"Martin, Eddie","Brown, Wilson",16,94.50,16,16,17,13,15,16,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,outrun
+2002,17,Ocean Sound (IRE),"Solis, Alex","Cassidy, James",6,48.70,14,13,13,17,17,17,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,outrun
+2002,18,Wild Horses,"Douglas, Rene","Pletcher, Todd",2,58.50,8,6,6,15,16,18,23.25,47.04,1:11.75,1:36.70,2:01.13,Fast,,,,"inside, faded"
+2003,1,Funny Cide,"Santos, Jose","Tagg, Barclay",5,12.80,4,3,3,2,1,1,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,Distorted Humor,Belle's Good Cide,Slewacide,"bmp start,stiff drive"
+2003,2,Empire Maker,"Bailey, Jerry","Frankel, Robert",11,2.50,8,8,8,3,3,2,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"5w bid,2ndbest"
+2003,3,Peace Rules,"Prado, Edgar","Frankel, Robert",4,6.30,2,2,2,1,2,3,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"pressed,led,gamely"
+2003,4,Atswhatimtalknbout,"Flores, David","Ellis, Ronald",3,8.90,10,12,11,10,5,4,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"closed late,7w lane"
+2003,5,Eye of the Tiger,"Coa, Eibar","Hollendorfer, Jerry",12,41.50,3,4,4,4,4,5,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"lean in bmp 5/16,empty"
+2003,6,Buddy Gil,"Stevens, Gary","Mullins, Jeff",7,7.20,13,13,13,11,6,6,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"bmp start,rail in lane"
+2003,7,Outta Here,"Desormeaux, Kent","Currin, William",14,39.70,15,14,16,15,14,7,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"ck early,12w stretch"
+2003,8,Ten Cents a Shine,"Borel, Calvin","Lukas, D.",13,37.20,16,16,15,14,11,8,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"10w lane,gaining"
+2003,9,Ten Most Wanted,"Day, Pat","Dollase, Wallace",15,6.60,12,10,10,9,10,9,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"off slow,bmp,ck,no bid"
+2003,10,Domestic Dispute,"Solis, Alex","Gallagher, Patrick",10,44.00,7,7,5,7,7,10,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"between,5w,empty"
+2003,11,Scrimshaw,"Velasquez, Cornelio","Lukas, D.",16,16.50,5,6,7,8,8,11,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"drift in bmp start,5w"
+2003,12,Offlee Wild,"Albarado, Robby","Smith, Thomas",6,29.90,11,11,9,6,9,12,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,bmp repeatedly start
+2003,13,Supah Blitz,"Homeister, Rosemary","Tortora, Emanuel",1,43.10,9,9,12,13,12,13,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,drift out brush start
+2003,14,Indian Express,"Baze, Tyler","Baffert, Bob",8,10.80,6,5,6,12,15,14,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"rank,steadied early"
+2003,15,Lone Star Sky,"Sellers, Shane","Amoss, Thomas",9,152.10,14,15,14,16,16,15,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,steadied near 1st turn
+2003,16,Brancusi,"Farina, Tony","Biancone, Patrick",2,29.30,1,1,1,5,13,16,22.78,46.23,1:10.48,1:35.75,2:01.19,Fast,,,,"drift start,brush,tire"
+2004,1,Smarty Jones,"Elliott, Stewart","Servis, John",13,4.10,4,4,2,2,1,1,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,Elusive Quality,I'll Get Along,Smile,"stalked,bid,clear"
+2004,2,Lion Heart,"Smith, Mike","Biancone, Patrick",3,5.40,1,1,1,1,2,2,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"bit off rail,2nd best"
+2004,3,Imperialism,"Desormeaux, Kent","Mulhall, Kristin",8,10.90,15,17,13,10,6,3,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"stdied 7/8,6wd lane"
+2004,4,Limehouse,"Santos, Jose","Pletcher, Todd",1,41.70,7,8,6,6,3,4,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"shuffled 7/8,inside"
+2004,5,The Cliff's Edge,"Sellers, Shane","Zito, Nicholas",9,8.20,16,15,17,8,5,5,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"wide,improved position"
+2004,6,Action This Day,"Flores, David","Mandella, Richard",4,43.40,18,18,18,14,12,6,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"steadied 3/8,mild bid"
+2004,7,Read the Footnotes,"Albarado, Robby","Violette, Richard",12,22.50,5,6,4,3,4,7,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"stdied 1st turn,wkened"
+2004,8,Birdstone,"Prado, Edgar","Zito, Nicholas",11,21.20,14,11,10,9,9,8,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"stdied,shuffled early"
+2004,9,Tapit,"Dominguez, Ramon","Dickinson, Michael",16,6.40,17,16,12,7,10,9,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"stdied 7-1/2,no bid"
+2004,10,Borrego,"Espinoza, Victor","Greely, C.",10,14.20,9,7,9,4,7,10,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"tight 1/2,no rally"
+2004,11,Song of the Sword,"Arroyo, Norberto","Pedersen, Jennifer",2,55.90,11,13,7,12,11,11,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,checked 1st turn
+2004,12,Master David,"Solis, Alex","Frankel, Robert",7,10.60,8,9,14,11,13,12,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"bmpd early,tight 1/2"
+2004,13,Pro Prado,"McKee, John","Holthus, Robert",17,53.50,10,10,8,5,8,13,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"4-wide,no rally"
+2004,14,Castledale (IRE),"Valdivia, Jose","Mullins, Jeff",14,21.90,13,12,15,17,14,14,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"wide,in tight 1/2"
+2004,15,Friends Lake,"Migliore, Richard","Kimmel, John",5,18.50,12,14,16,16,15,15,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,steadied 1st turn
+2004,16,Minister Eric,"Day, Pat","Mandella, Richard",6,22.50,6,5,3,13,17,16,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"stdied 1st turn,wkened"
+2004,17,Pollard's Vision,"Velazquez, John","Pletcher, Todd",15,24.00,3,2,5,15,16,17,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"stalked btwn,weakened"
+2004,18,Quintons Gold Rush,"Nakatani, Corey","Asmussen, Steven",18,51.20,2,3,11,18,18,--,22.99,46.73,1:11.80,1:37.35,2:04.06,Sloppy,,,,"4wd,took up 1/2,eased"
+2005,1,Giacomo,"Smith, Mike","Shirreffs, John",10,50.30,18,18,18,11,6,1,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,Holy Bull,Set Them Free,Stop the Music,"8w lane,all out"
+2005,2,Closing Argument,"Velasquez, Cornelio","McLaughlin, Kiaran",18,71.60,5,6,6,4,1,2,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"bobble start,9w,gamely"
+2005,3,Afleet Alex,"Rose, Jeremy","Ritchey, Timothy",12,4.50,11,11,9,6,2,3,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"split foes,outfinished"
+2005,4,Don't Get Mad,"Baze, Tyler","Ellis, Ronald",17,29.20,19,19,19,10,7,4,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"circled 10w, good try"
+2005,5,Buzzards Bay,"Guidry, Mark","Mullins, Jeff",20,46.30,10,10,7,5,5,5,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"7w bid 1/4p,empty late"
+2005,6,Wilko,"Nakatani, Corey","Dollase, Craig",14,21.70,13,14,16,13,10,6,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"mild gain, 6-7w"
+2005,7,Bellamy Road,"Castellano, Javier","Zito, Nicholas",16,2.60,3,5,5,2,3,7,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"4-5w,bid,led,weakened"
+2005,8,Andromeda's Hero,"Bejarano, Rafael","Zito, Nicholas",2,57.30,16,15,13,16,14,8,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"7w lane,minor gain"
+2005,9,Flower Alley,"Chavez, Jorge","Pletcher, Todd",7,41.30,4,3,2,7,8,9,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"slow start,steadied"
+2005,10,High Fly,"Bailey, Jerry","Zito, Nicholas",11,7.10,6,4,3,1,4,10,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"bid,between,led,tire"
+2005,11,Greeley's Galaxy,"Desormeaux, Kent","Stute, Warren",9,21.00,17,16,14,8,12,11,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"sluggish start,no gain"
+2005,12,Coin Silver,"Valenzuela, Patrick","Pletcher, Todd",5,38.60,14,12,12,9,11,12,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"8w lane,empty late"
+2005,13,Greater Good,"McKee, John","Holthus, Robert",8,58.40,20,20,20,17,15,13,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"outrun early,10w lane"
+2005,14,Noble Causeway,"Stevens, Gary","Zito, Nicholas",4,12.30,12,13,15,12,13,14,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"ck early,no factor"
+2005,15,Sun King,"Prado, Edgar","Zito, Nicholas",3,15.70,9,9,8,15,16,15,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"inside trip,weakened"
+2005,16,Spanish Chestnut,"Bravo, Joe","Biancone, Patrick",13,71.00,1,1,1,3,9,16,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,tired near stretch
+2005,17,Sort It Out,"Blanc, Brice","Baffert, Bob",1,61.90,15,17,17,18,17,17,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,not a factor
+2005,18,Going Wild,"Valdivia, Jose","Lukas, D.",19,59.50,2,2,4,14,18,18,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"tracked,4w,tired"
+2005,19,Bandini,"Velazquez, John","Pletcher, Todd",15,6.80,7,8,11,20,19,19,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,between foes tired
+2005,20,High Limit,"Dominguez, Ramon","Frankel, Robert",6,22.50,8,2,10,19,20,20,22.28,45.38,1:09.59,1:35.88,2:02.75,Fast,,,,"bmp early,tired"
+2006,1,Barbaro,"Prado, Edgar","Matz, Michael",8,6.10,5,4,4,1,1,1,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,Dynaformer,La Ville Rouge,Carson City,"stumble start,5w,drvg"
+2006,2,Bluegrass Cat,"Dominguez, Ramon","Pletcher, Todd",13,30.00,8,5,6,3,2,2,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"angled 4w lane,2nbest"
+2006,3,Steppenwolfer,"Albarado, Robby","Peitz, Daniel",2,16.30,18,13,11,6,5,3,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"bmp start,forced in,6w"
+2006,4,Jazil,"Jara, Fernando","McLaughlin, Kiaran",1,24.20,20,20,19,17,6,4,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"swerve in start,empty"
+2006,4,Brother Derek,"Solis, Alex","Hendricks, Dan",18,7.70,9,9,14,10,7,4,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"steadied twice,9w"
+2006,6,Showing Up,"Velasquez, Cornelio","Tagg, Barclay",6,26.20,4,3,3,2,3,6,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"bobble,bmp strt,4w bid"
+2006,7,Sweetnorthernsaint,"Desormeaux, Kent","Trombetta, Michael",11,5.50,12,11,5,4,4,7,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"bmp strt,steadied,tire"
+2006,8,Deputy Glitters,"Lezcano, Jose","Albertrani, Thomas",14,60.60,13,15,16,9,10,8,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"11w lane,bmp 1/8p"
+2006,9,Point Determined,"Bejarano, Rafael","Baffert, Bob",5,9.40,11,10,7,7,8,9,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"5w bid,bmp 1/8p,tired"
+2006,10,Seaside Retreat,"Husbands, Patrick","Casse, Mark",15,52.50,7,7,10,15,9,10,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"6w, bmp 1/8p,tired"
+2006,11,Storm Treasure,"Flores, David","Asmussen, Steven",19,51.90,19,18,13,12,11,11,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"between,empty in lane"
+2006,12,Lawyer Ron,"McKee, John","Holthus, Robert",17,10.20,6,8,9,8,12,12,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"steadied 3/4p,tired,6w"
+2006,13,Cause to Believe,"Baze, Russell","Hollendorfer, Jerry",16,25.90,15,19,20,18,17,13,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,failed to menace
+2006,14,Flashy Bull,"Smith, Mike","McLaughlin, Kiaran",20,43.00,16,11,17,14,15,14,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"broke awkward,wide"
+2006,15,Private Vow,"Bridgmohan, Shaun","Asmussen, Steven",12,40.50,17,16,12,11,14,15,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"slw start,bmp,steady"
+2006,16,Sinister Minister,"Espinoza, Victor","Baffert, Bob",4,9.70,2,2,2,5,13,16,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"pressed,led,faded"
+2006,17,Bob and John,"Gomez, Garrett","Baffert, Bob",7,12.90,14,12,8,16,16,17,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"bmp start,steadied"
+2006,18,A.P. Warrior,"Nakatani, Corey","Shirreffs, John",10,14.10,10,14,18,19,19,18,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,came out bmp start
+2006,19,Sharp Humor,"Guidry, Mark","Romans, Dale",9,30.10,3,6,15,20,20,19,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"faded,bore out 3/8p"
+2006,20,Keyed Entry,"Valenzuela, Patrick","Pletcher, Todd",3,28.80,1,1,1,13,18,20,22.63,46.07,1:10.88,1:37.02,2:01.36,Fast,,,,"duck in bmp strt,faded"
+2007,1,Street Sense,"Borel, Calvin","Nafzger, Carl",7,4.90,18,19,17,3,1,1,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,Street Cry (IRE),Bedazzle,Dixieland Band,"rail to lane,split,drv"
+2007,2,Hard Spun,"Pino, Mario","Jones, J.",8,10.00,1,1,1,1,2,2,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"bobble 1/8p,2ndbest"
+2007,3,Curlin,"Albarado, Robby","Asmussen, Steven",2,5.00,13,13,14,8,6,3,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"steady early,5w bid"
+2007,4,Imawildandcrazyguy,"Guidry, Mark","Kaplan, William",5,28.90,20,20,20,16,11,4,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"10w into lane,mild bid"
+2007,5,Sedgefield,"Leparoux, Julien","Miller, Darrin",1,58.60,5,5,3,2,3,5,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"inside,empty in lane"
+2007,6,Circular Quay,"Velazquez, John","Pletcher, Todd",16,11.40,19,18,16,13,8,6,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"bmp 5/16s,no threat"
+2007,7,Tiago,"Smith, Mike","Shirreffs, John",15,14.80,17,17,18,15,12,7,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"3w lane,by tired ones"
+2007,8,Any Given Saturday,"Gomez, Garrett","Pletcher, Todd",18,13.60,8,9,9,4,4,8,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"caused crowd 3/8, wide"
+2007,9,Sam P.,"Dominguez, Ramon","Pletcher, Todd",13,43.70,12,12,12,7,7,9,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"6w,failed to continue"
+2007,10,Nobiz Like Shobiz,"Velasquez, Cornelio","Tagg, Barclay",12,10.40,6,6,6,5,5,10,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"between,bid,faltered"
+2007,11,Dominican,"Bejarano, Rafael","Miller, Darrin",19,24.90,11,10,10,10,14,11,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"7w,bmp 7/16s, in tight"
+2007,12,Zanjero,"Bridgmohan, Shaun","Asmussen, Steven",3,36.00,16,15,13,11,10,12,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,steadied repeatedly
+2007,13,Great Hunter,"Nakatani, Corey","O'Neill, Doug",20,25.30,9,11,11,6,9,13,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"bmp far turn,empty"
+2007,14,Liquidity,"Flores, David","O'Neill, Doug",9,40.00,10,8,7,9,13,14,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"inside bid 3/8, tired"
+2007,15,Bwana Bull,"Castellano, Javier","Hollendorfer, Jerry",11,50.30,14,14,15,19,16,15,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"4-5w,no factor,between"
+2007,16,Storm in May,"Leyva, Juan","Kaplan, William",4,27.20,15,16,19,18,15,16,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"angle 5w lane,no bid"
+2007,17,Teuflesberg,"Elliott, Stewart","Sanders, Jamie",10,51.90,4,1,2,12,17,17,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"between,tired,4w"
+2007,18,Scat Daddy,"Prado, Edgar","Pletcher, Todd",14,7.20,7,7,8,20,20,18,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"5w, shuff bump 1/2pl"
+2007,19,Stormello,"Desormeaux, Kent","Currin, William",17,44.80,2,4,5,14,18,19,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,"5w,bmp 5/16s,eased"
+2007,20,Cowtown Cat,"Jara, Fernando","Pletcher, Todd",6,19.80,3,2,4,17,19,20,22.96,46.26,1:11.13,1:37.04,2:02.17,Fast,,,,tired after 5/8s
+2008,1,Big Brown,"Desormeaux, Kent","Dutrow, Richard",20,2.40,4,6,6,1,1,1,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,Boundary,Mien,Nureyev,"wide, steady urging"
+2008,2,Eight Belles,"Saez, Gabriel","Jones, J.",5,13.10,5,5,5,4,2,2,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"steadied 3/8, 5/16"
+2008,3,Denis of Cork,"Borel, Calvin","Carroll, David",16,27.20,20,20,20,13,6,3,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"sluggish st, mild bid"
+2008,4,Tale of Ekati,"Coa, Eibar","Tagg, Barclay",2,37.40,9,7,7,5,4,4,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"steadied, drifted out"
+2008,5,Recapturetheglory,"Baird, E.","Roussel, Louie",18,49.00,3,3,3,2,3,5,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"4 wide, bid, tired"
+2008,6,Colonel John,"Nakatani, Corey","Harty, Eoin",10,4.70,17,16,10,6,7,6,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,steadied early
+2008,7,Anak Nakal,"Bejarano, Rafael","Zito, Nicholas",3,53.90,16,15,17,12,11,7,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,7 wide 1/4 pl
+2008,8,Pyro,"Bridgmohan, Shaun","Asmussen, Steven",9,5.70,18,17,18,15,9,8,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"inside early,no menace"
+2008,9,Cowboy Cal,"Velazquez, John","Pletcher, Todd",17,39.20,2,2,2,3,5,9,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"off inside, tired"
+2008,10,Z Fortune,"Albarado, Robby","Asmussen, Steven",6,19.20,7,8,8,8,8,10,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,in traffic early
+2008,11,Smooth Air,"Cruz, Manoel","Stutts, Bennie",12,42.00,15,18,11,10,10,11,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"broke in air, steadied"
+2008,12,Visionaire,"Lezcano, Jose","Matz, Michael",8,25.30,19,19,19,18,16,12,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"stumbled, steadied"
+2008,13,Court Vision,"Gomez, Garrett","Mott, William",4,17.70,13,12,15,14,12,13,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"steadied, carried out"
+2008,14,Z Humor,"Douglas, Rene","Mott, William",11,63.60,14,13,16,16,15,14,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"carried in, took up"
+2008,15,Cool Coal Man,"Leparoux, Julien","Zito, Nicholas",1,44.10,6,4,4,9,14,15,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"in hand, faded"
+2008,16,Bob Black Jack,"Migliore, Richard","Kasparoff, James",13,29.40,1,1,1,7,13,16,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"pace, stayed to 1/4 pl"
+2008,17,Gayego,"Smith, Mike","Lobo, Paulo",19,18.90,8,9,9,11,17,17,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"sluggish start, rank"
+2008,18,Big Truck,"Castellano, Javier","Tagg, Barclay",7,28.60,10,10,12,17,18,18,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,"steadied, bumped"
+2008,19,Adriano,"Prado, Edgar","Motion, H.",15,28.90,11,14,14,19,19,19,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,took up early
+2008,20,Monba,"Dominguez, Ramon","Pletcher, Todd",14,31.60,12,11,13,20,20,20,23.30,47.04,1:11.14,1:36.56,2:01.82,Fast,,,,steadied early
+2009,1,Mine That Bird,"Borel, Calvin","Woolley, Bennie",8,50.60,19,19,19,12,1,1,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,Birdstone,Mining My Own,Smart Strike,bold inside run
+2009,2,Pioneerof the Nile,"Gomez, Garrett","Baffert, Bob",16,6.30,3,4,3,2,2,2,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"brushed, led, drft out"
+2009,3,Musket Man,"Coa, Eibar","Ryan, Derek",2,19.00,8,7,8,7,4,3,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"lost footing, bumped"
+2009,4,Papa Clem,"Bejarano, Rafael","Stute, Gary",7,12.20,5,3,6,4,3,4,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,steadying restraint
+2009,5,Chocolate Candy,"Smith, Mike","Hollendorfer, Jerry",11,10.00,17,15,12,8,7,5,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,squeezed start
+2009,6,Summer Bird,"Rosier, Chris","Ice, Tim",16,43.60,16,16,16,15,9,6,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,good 7 wide run
+2009,7,Join in the Dance,"DeCarlo, Christopher","Pletcher, Todd",9,51.40,1,1,1,1,5,7,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"brushed, pace, tired"
+2009,8,Regal Ransom,"Garcia, Alan","bin Suroor, Saeed",10,22.60,2,2,2,3,6,8,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"off rail, bid,gave way"
+2009,9,West Side Bernie,"Elliott, Stewart","Breen, Kelly",1,32.40,13,14,17,17,13,9,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,inside to stretch
+2009,10,General Quarters,"Leparoux, Julien","McCarthy, Thomas",12,10.30,12,11,13,10,10,10,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,steadied twice
+2009,11,Dunkirk,"Prado, Edgar","Pletcher, Todd",14,5.20,9,9,10,11,12,11,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"stumbled, steadied"
+2009,12,Hold Me Back,"Desormeaux, Kent","Mott, William",5,12.70,14,13,15,5,8,12,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"bumped, squeezed st"
+2009,13,Advice,"Douglas, Rene","Pletcher, Todd",4,49.00,15,17,15,13,14,13,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"squeezed, steadied 3/4"
+2009,14,Desert Party,"Dominguez, Ramon","bin Suroor, Saeed",18,14.80,4,5,4,6,11,14,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"bumped st, 4 wide"
+2009,15,Mr. Hot Stuff,"Velazquez, John","Harty, Eoin",3,28.40,18,18,18,16,16,15,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"bumped, squeezed st"
+2009,16,Atomic Rain,"Bravo, Joe","Breen, Kelly",13,55.20,10,10,9,9,15,16,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"in tight, tired"
+2009,17,Nowhere to Hide,"Bridgmohan, Shaun","Zito, Nicholas",17,45.50,11,12,14,18,18,17,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"hit gate, bumped"
+2009,18,Friesan Fire,"Saez, Gabriel","Jones, J.",6,3.80,6,6,7,14,17,18,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"bumped, squeezed"
+2009,19,Flying Private,"Albarado, Robby","Lukas, D.",19,46.60,7,8,11,19,19,19,22.98,47.23,1:12.09,1:37.49,2:02.66,Sloppy,,,,"5 wide,stopped"
+2010,1,Super Saver,"Borel, Calvin","Pletcher, Todd",4,8.00,6,6,4,2,1,1,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,Maria's Mon,Supercharger,A.P. Indy,"came in, rail, driving"
+2010,2,Ice Box,"Lezcano, Jose","Zito, Nicholas",2,11.70,19,19,19,15,11,2,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"steadied, blckd, stead"
+2010,3,Paddy O'Prado,"Desormeaux, Kent","Romans, Dale",10,12.30,13,11,10,5,3,3,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"swerved out, in"
+2010,4,Make Music for Me,"Rosario, Joel","Barba, Alexis",9,30.00,20,20,20,13,7,4,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"pinched back, 8w run"
+2010,5,Noble's Promise,"Martinez, Willie","McPeek, Kenneth",3,24.90,8,4,3,1,2,5,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"carried in, led, tired"
+2010,6,Lookin At Lucky,"Gomez, Garrett","Baffert, Bob",1,6.30,18,18,18,14,6,6,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,roughed twice early
+2010,7,Dublin,"Thompson, Terry","Lukas, D.",17,20.00,14,15,12,17,5,7,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,steadied opening 1/8
+2010,8,Stately Victor,"Garcia, Alan","Maker, Michael",6,20.20,17,17,14,10,8,8,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"forced in, bumped"
+2010,9,Mission Impazible,"Maragh, Rajiv","Pletcher, Todd",14,16.70,5,7,7,11,9,9,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,shuffled back 1mile pl
+2010,10,Devil May Care,"Velazquez, John","Pletcher, Todd",11,10.90,10,9,8,3,4,10,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"5w move, carried in"
+2010,11,American Lion,"Flores, David","Harty, Eoin",7,23.20,7,8,9,9,12,11,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,steadied early
+2010,12,Jackson Bend,"Smith, Mike","Zito, Nicholas",13,23.00,9,10,11,8,10,12,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"stead, altered course"
+2010,13,Discreetly Mine,"Castellano, Javier","Pletcher, Todd",15,31.60,4,5,5,6,13,13,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"4w move, bumped 5/16"
+2010,14,Dean's Kitten,"Albarado, Robby","Maker, Michael",8,25.70,15,12,13,16,15,14,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,in tight start
+2010,15,Conveyance,"Garcia, Martin","Baffert, Bob",12,27.00,11,1,11,4,2,15,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"fast pace, stead 3/16"
+2010,16,Homeboykris,"Dominguez, Ramon","Dutrow, Richard",19,27.00,11,14,17,20,18,16,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,in tight start
+2010,17,Sidney's Candy,"Talamo, Joseph","Sadler, John",20,9.50,2,2,2,12,16,17,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,"pressed, stopped"
+2010,18,Line of David,"Bejarano, Rafael","Sadler, John",5,19.90,3,3,6,18,19,18,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,stopped
+2010,19,Awesome Act,"Leparoux, Julien","Noseda, Jeremy",16,11.60,16,16,16,17,17,19,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,6 wide early
+2010,20,Backtalk,"Mena, Miguel","Amoss, Thomas",18,23.10,12,13,15,19,20,20,22.63,46.16,1:10.58,1:37.65,2:04.45,Sloppy,,,,bumped early
+2011,1,Animal Kingdom,"Velazquez, John","Motion, H.",16,20.90,12,12,10,5,3,1,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,Leroidesanimaux (BRZ),Dalicia (GER),Acatenango (GER),"4-6w, drifted out late"
+2011,2,Nehro,"Nakatani, Corey","Asmussen, Steven",18,8.50,6,6,5,2,2,2,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"4-5w, bid 1/4,held 2nd"
+2011,3,Mucho Macho Man,"Maragh, Rajiv","Ritvo, Katherine",13,9.30,7,8,8,6,4,3,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"5w 1/4, drftd 1/16"
+2011,4,Shackleford,"Castanon, Jesus","Romans, Dale",14,23.10,11,11,11,1,1,4,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"off rail, held well"
+2011,5,Master of Hounds,"Gomez, Garrett","O'Brien, Aidan",11,16.80,13,15,14,15,12,5,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,worked thru traffic
+2011,6,Santiva,"Bridgmohan, Shaun","Kenneally, Eddie",12,34.70,11,11,11,8,8,6,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"between 2nd, gaining"
+2011,7,Brilliant Speed,"Rosario, Joel","Albertrani, Thomas",2,27.90,16,14,14,10,9,7,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"8w 1/4, late bid"
+2011,8,Dialed In,"Leparoux, Julien","Zito, Nicholas",8,5.20,19,19,19,15,13,8,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"squeezed st, belatedly"
+2011,9,Pants On Fire,"Napravnik, Rosie","Breen, Kelly",7,8.10,4,5,4,4,6,9,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,4 wide 2nd turn
+2011,10,Twice the Appeal,"Borel, Calvin","Bonde, Jeff",3,11.90,15,16,18,19,17,10,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,7 wide 1/4 pl
+2011,11,Soldat,"Garcia, Alan","McLaughlin, Kiaran",17,11.90,3,4,6,9,10,11,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"5w 1/4 pl, tired"
+2011,12,Stay Thirsty,"Dominguez, Ramon","Pletcher, Todd",4,17.20,10,7,7,11,12,12,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"brushed st,rail weaken"
+2011,13,Derby Kitten,"Castellano, Javier","Maker, Michael",9,36.30,18,18,16,17,16,13,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,steadied 1/16 pl
+2011,14,Decisive Moment,"Clark, Kerwin","Arias, Juan",5,39.30,5,3,3,7,11,14,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"inside, gave way"
+2011,15,Archarcharch,"Court, Jon","Fires, William",1,12.50,17,17,17,18,18,15,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"lame, vanned off"
+2011,16,Midnight Interlude,"Espinoza, Victor","Baffert, Bob",15,9.60,9,9,9,13,15,16,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"eager, no response"
+2011,17,Twinspired,"Smith, Mike","Maker, Michael",10,32.90,14,13,12,14,14,17,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,steadied 3/8
+2011,18,Watch Me Go,"Bejarano, Rafael","O'Connell, Kathleen",19,33.60,8,10,13,16,19,18,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,lost footing start
+2011,19,Comma to the Top,"Valenzuela, Patrick","Miller, Peter",6,35.80,2,2,2,3,5,19,23.24,48.63,1:13.40,1:37.49,2:02.04,Fast,,,,"bid between, gave way"
+2012,1,I'll Have Another,"Gutierrez, Mario","O'Neill, Doug",19,15.30,6,7,6,4,2,1,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,Flower Alley,Arch's Gal Edith,Arch,4 wide 1/4 pl
+2012,2,Bodemeister,"Smith, Mike","Baffert, Bob",6,4.20,1,1,1,1,3,2,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"fast pace, gamely"
+2012,3,Dullahan,"Desormeaux, Kent","Romans, Dale",5,12.10,11,11,13,7,5,3,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"broke in, bmpd, 7w 1/4"
+2012,4,Went the Day Well,"Velazquez, John","Motion, H.",13,30.60,17,17,15,14,9,4,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"bumped, 7w 1/4 pl"
+2012,5,Creative Cause,"Rosario, Joel","Harrington, Mike",8,11.90,10,10,11,5,3,5,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"in close 7/8, 8w 1/4"
+2012,6,Liaison,"Garcia, Martin","Baffert, Bob",20,56.20,9,8,7,6,6,6,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"4 wide, tired"
+2012,7,Union Rags,"Leparoux, Julien","Matz, Michael",4,5.10,18,18,17,16,13,7,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"squeezed, took up"
+2012,8,Rousing Sermon,"Lezcano, Jose","Hollendorfer, Jerry",7,40.70,14,14,9,9,8,8,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"waited, blocked"
+2012,9,Hansen,"Dominguez, Ramon","Maker, Michael",14,13.10,3,3,3,3,4,9,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"carried in early,tired"
+2012,10,Daddy Nose Best,"Gomez, Garrett","Asmussen, Steven",10,14.00,8,9,10,8,7,10,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"forced in, steadied"
+2012,11,Optimizer,"Court, Jon","Lukas, D.",2,42.40,12,12,12,13,10,11,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,steadied 1/4 pl
+2012,12,Alpha,"Maragh, Rajiv","McLaughlin, Kiaran",11,19.60,13,13,14,15,15,12,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"awkward st, no menace"
+2012,13,El Padrino,"Bejarano, Rafael","Pletcher, Todd",16,29.40,20,20,20,18,17,13,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"steadied, roughed"
+2012,14,Done Talking,"Russell, Sheldon","Smith, Hamilton",17,39.40,19,19,18,17,16,14,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"in tight, jostled"
+2012,15,Sabercat,"Nakatani, Corey","Asmussen, Steven",18,37.80,16,15,16,11,12,15,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,5 wide early
+2012,16,Gemologist,"Castellano, Javier","Pletcher, Todd",15,8.60,5,5,5,10,14,16,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"drifted out, came in"
+2012,17,Trinniberg,"Martinez, Willie","Parboo, Bisnath",9,44.90,2,2,2,2,11,17,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,chased fast pace
+2012,18,Prospective,"Contreras, Luis","Casse, Mark",12,57.90,15,16,19,19,19,18,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,clipped heels early
+2012,19,Take Charge Indy,"Borel, Calvin","Byrne, Patrick",3,11.90,7,6,4,12,18,19,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,"inside, gave way"
+2012,20,Daddy Long Legs,"O'Donoghue, Colm","O'Brien, Aidan",1,26.00,4,4,8,20,20,--,22.32,45.39,1:09.80,1:35.19,2:01.83,Fast,,,,eased
+2013,1,Orb,"Rosario, Joel","McGaughey, Claude",15,5.40,16,16,17,5,2,1,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,Malibu Moon,Lady Liberty,Unbridled,"awkwd st, bold 6w move"
+2013,2,Golden Soul,"Albarado, Robby","Stewart, Dallas",3,34.50,15,15,15,7,3,2,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,inside to stretch
+2013,3,Revolutionary,"Borel, Calvin","Pletcher, Todd",2,6.40,17,18,18,12,5,3,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"bumped, waited 1/4 pl"
+2013,4,Normandy Invasion,"Castellano, Javier","Brown, Chad",4,9.30,12,7,6,1,1,4,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"steadied st, weakened"
+2013,5,Mylute,"Napravnik, Rosie","Amoss, Thomas",5,15.30,18,17,16,9,6,5,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"steadied early, 6w"
+2013,6,Oxbow,"Stevens, Gary","Lukas, D.",1,24.90,6,5,2,2,4,6,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"bumped, inside bid"
+2013,7,Lines of Battle,"Moore, Ryan","O'Brien, Aidan",10,31.90,13,14,14,11,11,7,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"steadied 7/16,in close"
+2013,8,Will Take Charge,"Court, Jon","Lukas, D.",16,36.40,10,10,11,6,9,8,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"5w run, checked 3/16"
+2013,9,Charming Kitten,"Prado, Edgar","Pletcher, Todd",14,33.20,11,12,8,10,10,9,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,mild move to 1/2 pl
+2013,10,Giant Finish,"Espinoza, Jose","Dutrow, Anthony",6,38.60,9,9,9,13,13,10,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,5w 1/4 pl
+2013,11,Overanalyze,"Bejarano, Rafael","Pletcher, Todd",8,16.20,14,13,13,16,15,11,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,altered course 1/16 pl
+2013,12,Palace Malice,"Smith, Mike","Pletcher, Todd",9,23.70,1,1,1,3,7,12,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"3 wide early, tired"
+2013,13,Java's War,"Leparoux, Julien","McPeek, Kenneth",18,21.50,19,19,19,14,14,13,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,hesitated start
+2013,14,Verrazano,"Velazquez, John","Pletcher, Todd",13,8.70,4,2,3,4,8,14,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,"3w, drifted out 3/16"
+2013,15,Itsmyluckyday,"Trujillo, Elvis","Plesa, Edward",11,9.50,7,6,7,8,12,15,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,mild 4 wide run 2nd
+2013,16,Frac Daddy,"Lebron, Victor","McPeek, Kenneth",17,25.00,8,11,12,17,16,16,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,5 wide early
+2013,17,Goldencents,"Krigger, Kevin","O'Neill, Doug",7,7.90,2,4,5,15,17,17,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,eased up late
+2013,18,Vyjack,"Gomez, Garrett","Rodriguez, Rudy",19,18.80,5,3,4,18,19,18,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,4 wide early
+2013,19,Falling Sky,"Saez, Luis","Terranova, John",12,39.70,3,8,10,19,18,19,22.57,45.33,1:09.80,1:36.16,2:02.89,Sloppy,,,,gave way readily 3/8pl
+2014,1,California Chrome,"Espinoza, Victor","Sherman, Art",5,2.50,3,3,3,1,1,1,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,Lucky Pulpit,Love the Chase,Not For Love,"rate 3w,bid btw,drivng"
+2014,2,Commanding Curve,"Bridgmohan, Shaun","Stewart, Dallas",16,37.80,18,18,17,11,9,2,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"mv btw,swung 8w,game"
+2014,3,Danza,"Bravo, Joe","Pletcher, Todd",4,8.70,12,9,8,5,4,3,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"shuffled early,bmp 1/8"
+2014,4,Wicked Strong,"Maragh, Rajiv","Jerkens, James",19,6.50,14,12,11,10,6,4,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"stumbled,traffic,wllng"
+2014,5,Samraat,"Ortiz, Jose","Violette, Richard",6,16.70,4,4,4,2,3,5,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"bump,4w,bid,outfinshd"
+2014,6,Dance With Fate,"Nakatani, Corey","Eurton, Peter",11,16.00,13,14,15,9,7,6,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"rough trip,angl 5w,bid"
+2014,7,Ride On Curlin,"Borel, Calvin","Gowan, William",18,17.30,19,19,18,17,14,7,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"rail,stdy 1/4,angl 9wd"
+2014,8,Medal Count,"Albarado, Robby","Romans, Dale",13,26.20,10,10,12,8,8,8,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"shuffld early,chkd 1/8"
+2014,9,Chitu,"Garcia, Martin","Baffert, Bob",12,25.50,1,2,2,3,2,9,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"awkwrd st,vied 2w,fade"
+2014,10,We Miss Artie,"Castellano, Javier","Pletcher, Todd",7,27.60,17,16,16,13,12,10,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"stdy 5-1/2,angl 8w,hng"
+2014,11,General a Rod,"Rosario, Joel","Maker, Michael",8,30.70,16,15,14,16,13,11,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"stdy 5-1/2,in tight lt"
+2014,12,Intense Holiday,"Velazquez, John","Pletcher, Todd",15,14.10,5,5,5,4,5,12,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"bump,6-5w,aim,weaknd"
+2014,13,Candy Boy,"Stevens, Gary","Sadler, John",17,9.40,15,17,11,15,15,13,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,taken up sharply 7/8
+2014,14,Uncle Sigh,"Ortiz, Irad",13,"Contessa, Gary",3,30.80,2,1,1,6,10,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,14
+2014,15,Tapiture,"Santana, Ricardo","Asmussen, Steven",14,35.20,8,7,7,7,11,15,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"tight bw,force out 7/8"
+2014,16,Harry's Holiday,"Lanerie, Corey","Maker, Michael",2,44.30,9,8,9,12,16,16,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,roughed btw early
+2014,17,Vinceremos,"Rocco, Joseph","Pletcher, Todd",9,49.70,11,11,10,18,18,17,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"squeezed,stdy along"
+2014,18,Wildcat Red,"Saez, Luis","Garoffalo, Jose",10,18.60,6,11,13,19,19,18,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"bobble,bump,stdy,shffl"
+2014,19,Vicar's in Trouble,"Napravnik, Rosie","Maker, Michael",1,20.40,7,6,6,14,17,19,23.04,47.37,1:11.80,1:37.45,2:03.66,Fast,,,,"roughed,2w mve,stoppd"
+2015,1,American Pharoah,"Espinoza, Victor","Baffert, Bob",15,2.90,3,3,3,3,1,1,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,Pioneerof the Nile,Littleprincessemma,Yankee Gentleman,"5wd turns,brushed late"
+2015,2,Firing Line,"Stevens, Gary","Callaghan, Simon",9,9.50,2,2,2,2,2,2,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"3w,led,duel btw,brshd"
+2015,3,Dortmund,"Garcia, Martin","Baffert, Bob",7,4.30,1,1,1,1,3,3,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"2w-rail,duel,willingly"
+2015,4,Frosted,"Rosario, Joel","McLaughlin, Kiaran",12,10.30,14,14,15,7,4,4,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"rank,5w mve,churned"
+2015,5,Danzig Moon,"Leparoux, Julien","Casse, Mark",5,22.60,6,6,5,4,5,5,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"exchange bumps,stdy"
+2015,6,Materiality,"Castellano, Javier","Pletcher, Todd",3,11.50,13,13,14,17,13,6,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"hesitate st,4w,angl in"
+2015,7,Keen Ice,"Desormeaux, Kent","Romans, Dale",11,45.80,17,17,16,12,14,7,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"wait 5wd 3/16,altr,bid"
+2015,8,Mubtaahij (IRE),"Soumillon, Christophe","de Kock, Michael",6,14.40,12,10,9,9,6,8,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"rate bk,ins chase,even"
+2015,9,Itsaknockout,"Saez, Luis","Pletcher, Todd",10,30.60,11,12,13,11,10,9,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"stdy early,5-6wd upper"
+2015,10,Carpe Diem,"Velazquez, John","Pletcher, Todd",2,7.70,5,4,4,6,8,10,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"towards ins,flattened"
+2015,11,Frammento,"Nakatani, Corey","Zito, Nicholas",18,69.50,16,16,17,13,11,11,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"7wd upper,bump late"
+2015,12,Bolo,"Bejarano, Rafael","Gaines, Carla",8,31.90,4,5,6,8,9,12,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"jostled,in tight early"
+2015,13,Mr. Z,"Vazquez, Ramon","Lukas, D.",14,36.60,7,7,8,10,12,13,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,check repeated early
+2015,14,Ocho Ocho Ocho,"Trujillo, Elvis","Cassidy, James",1,26.10,8,8,7,5,7,14,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"ins,angl str,wknd"
+2015,15,Far Right,"Smith, Mike","Moquett, Ron",17,39.20,18,18,18,16,16,15,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"lagged,very wide upper"
+2015,16,War Story,"Talamo, Joseph","Amoss, Thomas",13,45.30,15,15,12,15,15,16,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"stdy,in close early"
+2015,17,Tencendur,"Franco, Manuel","Weaver, George",4,52.30,10,9,10,18,18,17,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"inside, drop back"
+2015,18,Upstart,"Ortiz, Jose","Violette, Richard",16,15.70,9,11,11,14,17,18,23.24,47.34,1:11.29,1:36.45,2:03.02,Fast,,,,"4w, stop 1m, eased"
+2016,1,Nyquist,"Gutierrez, Mario","O'Neill, Doug",13,2.30,2,2,3,2,1,1,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,Uncle Mo,Seeking Gabrielle,Forestry,"patient 3w, driving"
+2016,2,Exaggerator,"Desormeaux, Kent","Desormeaux, J.",11,5.10,15,15,15,8,3,2,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"knifed thru 1/4, game"
+2016,3,Gun Runner,"Geroux, Florent","Asmussen, Steven",5,10.30,3,3,2,1,2,3,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"rated, led, grudgingly"
+2016,4,Mohaymen,"Alvarado, Junior","McLaughlin, Kiaran",14,11.80,13,12,10,6,5,4,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"swung 6w, run between"
+2016,5,Suddenbreakingnews,"Quinonez, Luis","Von Hemel, Donnie",2,24.60,19,19,19,17,7,5,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"trouble early, surged"
+2016,6,Destin,"Castellano, Javier","Pletcher, Todd",9,18.00,11,8,7,4,4,6,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"broke in, bumped, 4 w"
+2016,7,Brody's Cause,"Saez, Luis","Romans, Dale",19,24.90,12,13,13,11,13,7,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"5w, slight response"
+2016,8,Mo Tom,"Lanerie, Corey","Amoss, Thomas",4,25.70,16,17,18,15,12,8,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"steadied, fanned 7 w"
+2016,9,Lani,"Take, Yutaka","Matsunaga, Mikio",8,29.30,17,16,17,13,11,9,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"off slow, forced 8 w"
+2016,10,Mor Spirit,"Stevens, Gary","Baffert, Bob",17,12.80,8,10,11,9,9,10,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"carried out 6w, empty"
+2016,11,My Man Sam,"Ortiz, Irad","Brown, Chad",6,19.50,14,14,14,10,14,11,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,checked sharply 1/4 p
+2016,12,Tom's Ready,"Hernandez, Brian","Stewart, Dallas",12,49.10,6,6,6,7,10,12,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"between foes, wilted"
+2016,13,Creator,"Santana, Ricardo","Asmussen, Steven",3,16.40,18,18,16,14,16,13,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"checked, bumped hard"
+2016,14,Outwork,"Velazquez, John","Pletcher, Todd",15,26.50,4,4,4,5,8,14,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"3-4w pursuit, tired"
+2016,15,Danzing Candy,"Smith, Mike","Sise, Clifford",20,25.70,1,1,1,1,3,15,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"wide-clear, rail,tired"
+2016,16,Trojan Nation,"Gryder, Aaron","Gallagher, Patrick",1,42.10,20,20,20,19,18,16,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,checked start
+2016,17,Oscar Nominated,"Leparoux, Julien","Maker, Michael",7,42.30,9,9,8,16,17,17,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"steadied 1/4, bumped"
+2016,18,Majesto,"Jaramillo, Emisael","Delgado, Gustavo",18,56.60,10,11,12,18,19,18,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"steadied early, tired"
+2016,19,Whitmore,"Espinoza, Victor","Moquett, Ron",10,30.30,7,5,5,12,15,19,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"towards inside, faded"
+2016,20,Shagaf,"Rosario, Joel","Brown, Chad",16,56.00,5,7,9,20,20,--,22.58,45.72,1:10.40,1:35.61,2:01.31,Fast,,,,"pulled up, walked off"
+2017,1,Always Dreaming,"Velazquez, John","Pletcher, Todd",5,4.70,2,2,1,1,1,1,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,Bodemeister,Above Perfection,In Excess (IRE),"rebid 2w,cleared,drvng"
+2017,2,Lookin At Lee,"Lanerie, Corey","Asmussen, Steven",1,33.20,17,16,16,7,2,2,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,dream ins trip to 1/8
+2017,3,Battle of Midway,"Prat, Flavien","Hollendorfer, Jerry",11,40.00,3,3,4,2,3,3,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"stalk,bid btw,floated"
+2017,4,Classic Empire,"Leparoux, Julien","Casse, Mark",14,6.80,13,13,12,8,6,4,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"bobbled,roughed early"
+2017,5,Practical Joke,"Rosario, Joel","Brown, Chad",19,27.80,8,7,8,5,4,5,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"mv btw,drop in,wllng"
+2017,6,Tapwrit,"Ortiz, Jose","Pletcher, Todd",16,27.10,15,14,15,10,8,6,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"tight,forced in,stdy"
+2017,7,Gunnevera,"Castellano, Javier","Sano, Antonio",10,10.00,14,15,14,9,10,7,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"jam up,brush,5w,floatd"
+2017,8,McCraken,"Hernandez, Brian","Wilkes, Ian",15,6.90,12,11,10,6,9,8,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"jostled st,bmped 1/8"
+2017,9,Gormley,"Espinoza, Victor","Shirreffs, John",18,22.30,7,6,5,4,7,9,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"4wd,move,bump 1/8"
+2017,10,Irish War Cry,"Maragh, Rajiv","Motion, H.",17,24.80,4,4,3,3,5,10,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"came in st,4-3w,wknd"
+2017,11,Hence,"Geroux, Florent","Asmussen, Steven",8,15.00,18,19,19,18,12,11,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"tight st,steady 5/16"
+2017,12,Untrapped,"Santana, Ricardo","Asmussen, Steven",4,58.00,10,10,11,16,13,12,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"rail,swung 7w,gave way"
+2017,13,Girvin,"Smith, Mike","Sharp, Joe",7,22.10,11,12,13,13,11,13,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"tight st,roughd 5/16"
+2017,14,Patch,"Gaffalione, Tyler","Pletcher, Todd",20,14.10,9,9,9,15,16,14,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"checked,bumpd 5/16"
+2017,15,J Boys Echo,"Saez, Luis","Romans, Dale",13,47.30,16,17,17,17,15,15,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,bounced around start
+2017,16,Sonneteer,"Desormeaux, Kent","Desormeaux, J.",12,39.70,19,18,18,12,14,16,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"brk slw,steady,wide"
+2017,17,Fast and Accurate,"Hill, Channing","Maker, Michael",3,41.80,5,5,6,19,18,17,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"stdy early,chckd 5/16"
+2017,18,Irap,"Gutierrez, Mario","O'Neill, Doug",9,41.40,6,8,7,11,17,18,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"bmp st,3-4w,stdy 5/16"
+2017,19,State of Honor,"Lezcano, Jose","Casse, Mark",6,54.00,11,1,2,14,19,19,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"ins,tired,steadied"
+2017,20,Thunder Snow (IRE),"Soumillon, Christophe","bin Suroor, Saeed",2,16.40,--,--,--,--,--,--,22.70,46.53,1:11.12,1:37.27,2:03.59,Wet Fast,,,,"rank,bucked,pulled up"
+2018,1,Justify,"Smith, Mike","Baffert, Bob",7,2.90,2,2,2,1,1,1,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,Scat Daddy,Stage Magic,Ghostzapper,"bid 3w, unwavering"
+2018,2,Good Magic,"Ortiz, Jose","Brown, Chad",6,9.70,4,5,5,2,2,2,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"btw,aim1/4,jst hld 2nd"
+2018,3,Audible,"Castellano, Javier","Pletcher, Todd",5,7.00,12,10,12,6,3,3,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"std'd5/16,altrd in,bid"
+2018,4,Instilled Regard,"Van Dyke, Drayden","Hollendorfer, Jerry",15,85.10,17,17,17,9,5,4,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"rghd st,wait1/4,weaved"
+2018,5,My Boy Jack,"Desormeaux, Kent","Desormeaux, J.",10,6.70,19,19,20,16,9,5,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"trbl3/8,swng 8w,game"
+2018,6,Bravazo,"Contreras, Luis","Lukas, D.",13,66.90,8,11,11,8,4,6,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"bmp strt,4-5w,flttened"
+2018,7,Hofburg,"Ortiz, Irad","Mott, William",9,27.00,16,15,15,14,13,7,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"brsh strt,stdied twice"
+2018,8,Lone Sailor,"Graham, James","Amoss, Thomas",8,24.50,15,12,10,12,6,8,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"off slw, rail, stymied"
+2018,9,Vino Rosso,"Velazquez, John","Pletcher, Todd",18,14.10,18,18,18,10,10,9,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"wide, mild improvement"
+2018,10,Solomini,"Prat, Flavien","Baffert, Bob",17,62.90,20,20,19,15,12,10,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"steadied, rail, even"
+2018,11,Firenze Fire,"Lopez, Paco","Servis, Jason",1,59.70,7,6,6,5,11,11,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"tracked, angled, tired"
+2018,12,Bolt d'Oro,"Espinoza, Victor","Ruis, Mick",11,8.90,3,4,3,3,8,12,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"chased 3-4 w, wilted"
+2018,13,Flameaway,"Lezcano, Jose","Casse, Mark",4,37.50,6,3,4,4,7,13,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"well placed, caved"
+2018,14,Enticed,"Alvarado, Junior","McLaughlin, Kiaran",12,50.30,11,13,16,13,15,14,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"bmped strt,stdied 7/16"
+2018,15,Promises Fulfilled,"Lanerie, Corey","Romans, Dale",3,49.00,1,1,1,7,14,15,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"rail, pressure, faded"
+2018,16,Free Drop Billy,"Albarado, Robby","Romans, Dale",2,45.40,14,8,8,20,20,16,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"off slw,rail move,wknd"
+2018,17,Noble Indy,"Geroux, Florent","Pletcher, Todd",19,59.20,5,7,7,11,16,17,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"snug hold 5w, tired"
+2018,18,Combatant,"Santana, Ricardo","Asmussen, Steven",20,70.60,13,16,14,17,18,18,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"wide, no factor"
+2018,19,Magnum Moon,"Saez, Luis","Pletcher, Todd",16,13.70,10,14,13,18,17,19,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"broke in, rough trip"
+2018,20,Mendelssohn,"Moore, Ryan","O'Brien, Aidan",14,6.80,9,9,9,19,19,20,22.24,45.77,1:11.01,1:37.35,2:04.20,Sloppy,,,,"banged around, eased"
+2019,1,Country House,"Prat, Flavien","Mott, William",18,65.20,9,8,9,3,2,1,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,Lookin At Lucky,Quake Lake,War Chant,"brush4wd5/16,outkicked"
+2019,2,Code of Honor,"Velazquez, John","McGaughey, Claude",11,14.40,10,9,8,1,4,2,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"slip thru rail,flttned"
+2019,3,Tacitus,"Ortiz, Jose","Mott, William",8,5.80,15,16,14,8,7,3,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"unsettled,good courage"
+2019,4,Maximum Security,"Saez, Luis","Servis, Jason",7,4.50,1,1,1,2,1,4,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"veer out 5/16p, dug in"
+2019,5,Improbable,"Ortiz, Irad","Baffert, Bob",5,4.00,8,5,5,6,5,5,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"covered up,idled,mldly"
+2019,6,Game Winner,"Rosario, Joel","Baffert, Bob",14,6.80,18,18,17,9,8,6,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"wide,bump1/2,brush str"
+2019,7,Master Fencer (JPN),"Leparoux, Julien","Tsunoda, Koichi",13,58.60,19,19,19,19,12,7,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"veer st,out&in,willing"
+2019,8,War of Will,"Gaffalione, Tyler","Casse, Mark",1,16.70,6,4,4,4,3,8,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,forced out&chckd5/16p
+2019,9,Plus Que Parfait,"Santana, Ricardo","Walsh, Brendan",9,57.10,12,12,10,5,6,9,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"2wd,brief bid,gave way"
+2019,10,Win Win Win,"Pimentel, Julian","Trombetta, Michael",12,16.80,17,17,18,15,13,10,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"4wd early, no menace"
+2019,11,Cutting Humor,"Smith, Mike","Pletcher, Todd",10,24.10,7,11,11,7,11,11,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"5wd early,fan6wd,wknd"
+2019,12,By My Standards,"Saez, Gabriel","Calhoun, W.",3,18.80,13,13,15,11,10,12,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"squeezed st,bumped1/2m"
+2019,13,Vekoma,"Castellano, Javier","Weaver, George",6,16.80,4,6,6,16,17,13,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"close-up 4wd, done 6f"
+2019,14,Bodexpress,"Landeros, Chris","Delgado, Gustavo",19,71.00,2,3,3,14,15,14,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"3wd, taken up 5/16p"
+2019,15,Tax,"Alvarado, Junior","Gargan, Danny",2,35.50,11,10,12,12,9,15,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,no factor inside
+2019,16,Roadster,"Geroux, Florent","Baffert, Bob",15,11.60,16,15,13,18,18,16,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"very wide turns,outrun"
+2019,17,Long Range Toddy,"Court, Jon","Asmussen, Steven",16,54.80,3,2,2,10,16,17,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"vied,checked hard5/16p"
+2019,18,Spinoff,"Franco, Manuel","Pletcher, Todd",17,52.30,5,7,7,17,19,18,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"wide thruout,empty 1/4"
+2019,19,Gray Magician,"Van Dyke, Drayden","Miller, Peter",4,33.80,14,14,16,13,14,19,22.31,46.62,1:12.50,1:38.63,2:03.93,Sloppy,,,,"mild gain2w,tire aft1m"
+2020,1,Authentic,"Velazquez, John","Baffert, Bob",15,8.40,1,1,1,1,1,1,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,Into Mischief,Flawless,Mr. Greeley,"tested,brushed,game"
+2020,2,Tiz the Law,"Franco, Manuel","Tagg, Barclay",14,0.70,4,4,3,2,2,2,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"3-6w 1st,bid,repelled"
+2020,3,Mr. Big News,"Saez, Gabriel","Calhoun, W.",7,46.50,10,10,9,3,3,3,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"5wtook aim,leveled off"
+2020,4,Honor A. P.,"Smith, Mike","Shirreffs, John",13,7.60,14,14,15,9,4,4,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"off slw, wide, kept on"
+2020,5,Max Player,"Santana, Ricardo","Asmussen, Steven",1,19.60,12,13,12,11,10,5,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"5w between, churned"
+2020,6,Storm the Court,"Leparoux, Julien","Eurton, Peter",3,27.50,2,3,4,5,5,6,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"well placed, even"
+2020,7,Enforceable,"Beschizza, Adam","Casse, Mark",2,22.90,7,5,8,8,6,7,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"bumped early, inside"
+2020,8,Ny Traffic,"Lopez, Paco","Joseph, Saffie",12,12.70,3,2,2,4,7,8,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"tracked 5p,bid,wkened"
+2020,9,Necker Island,"Mena, Miguel","Hartman, Chris",8,49.30,13,12,13,13,11,9,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"angled out 8w, belated"
+2020,10,Major Fed,"Graham, James","Foley, Gregory",4,43.30,6,6,5,6,8,10,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"keen,jostled,traffic"
+2020,11,Sole Volante,"Panici, Luca","Biancone, Patrick",9,32.10,15,15,14,14,12,11,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"squeezed start, empty"
+2020,12,Winning Impression,"Rocco, Joseph","Stewart, Dallas",11,50.00,9,9,10,15,15,12,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"tucked in, swung wide"
+2020,13,Money Moves,"Castellano, Javier","Pletcher, Todd",5,13.10,5,7,6,12,14,13,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"rank, bumped, tired"
+2020,14,Attachment Rate,"Talamo, Joseph","Romans, Dale",10,47.50,8,8,7,10,13,14,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"came in, bumped start"
+2020,15,South Bend,"Gaffalione, Tyler","Mott, William",6,36.60,11,11,11,7,9,15,22.92,46.41,1:10.23,1:35.02,2:00.61,Fast,,,,"bid 8w, caved"
+2021,1,Mandaloun,"Geroux, Florent","Cox, Brad",7,26.90,4,3,3,2,2,1,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,Into Mischief,Brooch,Empire Maker,"level terms,kpt at bay"
+2021,2,Hot Rod Charlie,"Prat, Flavien","O'Neill, Doug",9,5.60,5,5,5,3,3,2,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"trffic, split, willing"
+2021,3,Essential Quality,"Saez, Luis","Cox, Brad",14,2.90,6,7,6,4,4,3,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"bmped start,wide,hung"
+2021,4,O Besos,"Pedroza, Marcelino","Foley, Gregory",6,41.70,12,11,9,7,5,4,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"split foes, angled in"
+2021,5,Midnight Bourbon,"Smith, Mike","Asmussen, Steven",10,13.20,11,12,14,11,8,5,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"bumped early,4wd turns"
+2021,6,Keepmeinmind,"Cohen, David","Diodoro, Robertino",4,49.00,19,19,19,13,11,6,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"off slow, 6-8w,gaining"
+2021,7,Helium,"Leparoux, Julien","Casse, Mark",12,38.10,3,4,4,6,7,7,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"forwardly 3w, faltered"
+2021,8,Known Agenda,"Ortiz, Irad","Pletcher, Todd",1,9.90,17,16,13,15,12,8,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"shifted out, improved"
+2021,9,Highly Motivated,"Castellano, Javier","Brown, Chad",16,10.70,9,8,8,5,6,9,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"2-4w turns,chasd,faded"
+2021,10,Sainthood,"Lanerie, Corey","Pletcher, Todd",5,43.40,8,6,7,8,9,10,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"saved ground,faded"
+2021,11,Like the King,"Van Dyke, Drayden","Ward, Wesley",2,49.90,14,13,12,9,10,11,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"bumped start,2p,5p5/16"
+2021,12,Bourbonic,"Carmouche, Kendrick","Pletcher, Todd",19,30.40,18,18,17,18,15,12,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"tuckd in early,improvd"
+2021,13,Hidden Stash,"Bejarano, Rafael","Oliver, Victoria",13,39.40,16,17,15,14,14,13,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"4p1st,2w2nd,no impact"
+2021,14,Brooklyn Strong,"Rispoli, Umberto","Velazquez, Daniel",3,43.50,15,14,16,17,16,14,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,bumped gate/jostled st
+2021,15,Super Stock,"Santana, Ricardo","Asmussen, Steven",17,33.90,7,9,11,10,13,15,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"between 5w, tired"
+2021,16,Rock Your World,"Rosario, Joel","Sadler, John",15,84.70,10,10,10,12,17,16,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"step slw/jostled st,5w"
+2021,17,Dynamic One,"Ortiz, Jose","Pletcher, Todd",11,45.30,13,15,18,19,18,17,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"rank btwn early,5wd"
+2021,18,Soup and Sandwich,"Gaffalione, Tyler","Casse, Mark",18,26.90,2,2,2,16,19,19,23.09,46.70,1:11.21,1:35.98,2:01.02,Fast,,,,"prompt 2w,wilted,eased"
+2022,1,Rich Strike,"Leon, Sonny","Reed, Eric",20,80.80,17,18,18,15,3,1,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,Keen Ice,Gold Strike,Smart Strike,"wait,shft in,alter,bid"
+2022,2,Epicenter,"Rosario, Joel","Asmussen, Steven",3,4.10,8,8,5,1,1,2,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"shook clear, caught"
+2022,3,Zandon,"Prat, Flavien","Brown, Chad",10,6.10,13,11,9,4,2,3,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"in tight early, kpt on"
+2022,4,Simplification,"Ortiz, Jose","Sano, Antonio",13,35.30,15,15,15,11,4,4,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"3-5w,7w1/4,stayed well"
+2022,5,Mo Donegal,"Ortiz, Irad","Pletcher, Todd",1,10.10,19,17,17,14,8,5,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"off slow, 10w, gaining"
+2022,6,Barber Road,"Gutierrez, Reylu","Ortiz, John",14,60.40,20,19,19,17,9,6,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"5-6w2nd,11w1/4,mildly"
+2022,7,Tawny Port,"Santana, Ricardo","Cox, Brad",18,80.50,14,14,14,7,5,7,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"ins-2p,improvd,flattnd"
+2022,8,Smile Happy,"Lanerie, Corey","McPeek, Kenneth",5,14.10,9,9,10,5,6,8,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"in tight 3/8, bid,hung"
+2022,9,Tiz the Bomb,"Hernandez, Brian","McPeek, Kenneth",9,31.00,16,16,16,16,11,9,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"off slow, belatedly"
+2022,10,Zozos,"Franco, Manuel","Cox, Brad",19,48.70,3,3,4,6,13,10,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"3w,chsd 4w2nd,fade5/16"
+2022,11,Classic Causeway,"Leparoux, Julien","Lynch, Brian",17,78.90,12,13,13,13,15,11,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"step slow st,stdy 5/16"
+2022,12,Taiba,"Smith, Mike","Yakteen, Tim",12,5.80,6,5,7,8,12,12,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"ins,4w1/2,tire,left ld"
+2022,13,Crown Pride (JPN),"Lemaire, Christophe","Shintani, Koichi",7,17.50,2,2,2,3,10,13,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,disputed pace 3 w
+2022,14,Happy Jack,"Bejarano, Rafael","O'Neill, Doug",2,23.20,18,20,20,19,17,14,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"slow into stride,empty"
+2022,15,Messier,"Velazquez, John","Yakteen, Tim",6,7.10,4,4,1,2,7,15,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"tracked, led, wilted"
+2022,16,White Abarrio,"Gaffalione, Tyler","Joseph, Saffie",15,15.40,10,12,11,10,14,16,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"5w,7w2nd,9w1/4,faded"
+2022,17,Charge It,"Saez, Luis","Pletcher, Todd",8,16.00,7,2,8,12,16,17,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"steadied, forced in"
+2022,18,Cyberknife,"Geroux, Florent","Cox, Brad",16,14.90,5,6,6,9,18,18,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"3-4p,5w2nd,caved 8w1/4"
+2022,19,Pioneer of Medina,"Bravo, Joe","Pletcher, Todd",11,55.90,11,10,12,20,20,19,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"urged 4wbtw,done early"
+2022,20,Summer Is Tomorrow,"Barzalona, Mickael","Seemar, Bhupat",4,36.80,1,1,3,18,19,20,21.78,45.36,1:10.34,1:36.96,2:02.61,Fast,,,,"pace inside, caved"
+2023,1,Mage,"Castellano, Javier","Delgado, Gustavo",8,15.21,15,16,14,6,2,1,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,Good Magic,Puca,Big Brown,"rally 5-7p,bid1/8,edge"
+2023,2,Two Phil's,"Loveberry, Jareth","Rivelli, Larry",3,9.87,5,4,4,1,1,2,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"btw,bid,clrd,doggedly"
+2023,3,Angel of Empire,"Prat, Flavien","Cox, Brad",12,4.06,16,15,13,10,3,3,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"angled 7w, gaining"
+2023,4,Disarm,"Rosario, Joel","Asmussen, Steven",9,27.12,13,12,9,9,7,4,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"ins-2w,5pbtwupr,bmp1/8"
+2023,5,Hit Show,"Franco, Manuel","Cox, Brad",1,24.02,8,6,6,3,4,5,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"range up 4w2nd,flattnd"
+2023,6,Derma Sotogake (JPN),"Lemaire, Christophe","Otonashi, Hidetaka",14,7.80,14,13,10,7,6,6,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"brushed gate, toiled"
+2023,7,Tapit Trice,"Saez, Luis","Pletcher, Todd",5,4.53,18,18,15,12,11,7,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"3p,bump 5p5/16,8p1/4"
+2023,8,Raise Cain,"Corrales, Gerardo","Colebrook, Ben",13,33.04,9,9,8,11,10,8,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"bumped, checked 1/8"
+2023,9,Rocket Can,"Alvarado, Junior","Mott, William",15,28.81,7,7,7,5,5,9,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"bid between, weakened"
+2023,10,Confidence Game,"Graham, James","Desormeaux, J.",4,21.03,6,5,5,4,8,10,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"ins,rail chase,faded"
+2023,11,Sun Thunder,"Hernandez, Brian","McPeek, Kenneth",11,33.06,17,17,16,13,12,11,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"hopped start, belated"
+2023,12,Mandarin Hero (JPN),"Kimura, Kazushi","Fujita, Terunobu",17,17.47,12,11,11,14,14,12,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,bumped hard 5/16
+2023,13,Reincarnate,"Velazquez, John","Yakteen, Tim",7,14.76,3,3,3,8,13,13,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"press 3w,wkn btw5/16"
+2023,14,Kingsbarns,"Ortiz, Jose","Pletcher, Todd",6,11.72,2,2,2,2,9,14,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"2wd,wknd,steady btw1/8"
+2023,15,King Russell,"Bejarano, Rafael","Moquett, Ron",18,32.27,10,10,12,15,15,15,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"hung wide, empty"
+2023,16,Verifying,"Gaffalione, Tyler","Cox, Brad",2,14.30,1,1,1,16,16,16,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"dueled ins,wilted 2nd"
+2023,17,Jace's Road,"Geroux, Florent","Cox, Brad",10,33.47,4,8,17,18,18,17,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"forwardly 4w, stopped"
+2023,18,Cyclone Mischief,"Ortiz, Irad","Romans, Dale",16,29.02,11,14,18,17,17,18,22.35,45.73,1:10.11,1:36.06,2:01.57,Fast,,,,"widest, no factor"
+2024,1,Mystik Dan,"Hernandez, Brian","McPeek, Kenneth",3,18.61,8,6,4,1,1,1,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,Goldencents,Ma'am,Colonel John,"slipped thru, lasted"
+2024,2,Sierra Leone,"Gaffalione, Tyler","Brown, Chad",2,4.79,18,17,16,8,3,2,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"8w,bumped,fought on"
+2024,3,Forever Young (JPN),"Sakai, Ryusei","Yahagi, Yoshito",10,7.03,16,16,15,7,2,3,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"off slw, bumped, game"
+2024,4,Catching Freedom,"Prat, Flavien","Cox, Brad",4,8.47,15,13,13,6,5,4,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"got through, kicked on"
+2024,5,T O Password (JPN),"Kimura, Kazushi","Takayanagi, Daisuke",9,48.20,17,18,18,11,7,5,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"off slw,chckd,lst crop"
+2024,6,Resilience,"Alvarado, Junior","Mott, William",18,31.85,7,8,8,2,4,6,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"3w,bold bid 6p2nd,yldd"
+2024,7,Stronghold,"Fresu, Antonio","D'Amato, Philip",17,35.55,5,4,6,4,6,7,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"3-4p,btw btw1/4,floatd"
+2024,8,Honor Marie,"Curtis, Ben","Beckman, D. Whitworth",7,14.90,19,20,20,10,8,8,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,jostled hard early
+2024,9,Endlessly,"Rispoli, Umberto","McCarthy, Michael",13,48.83,20,19,19,15,15,9,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"ins,10p1/4,moved up"
+2024,10,Dornoch,"Saez, Luis","Gargan, Danny",1,22.91,13,12,14,13,12,10,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"shuffled, checked hard"
+2024,11,Track Phantom,"Rosario, Joel","Asmussen, Steven",11,41.58,1,1,1,3,9,11,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"hounded ins,folded btw"
+2024,12,West Saratoga,"Castanon, Jesus","Demeritte, Larry",12,22.93,6,7,7,14,14,12,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"2wbtw,bmpd 5p1/4,brshd"
+2024,13,Domestic Product,"Ortiz, Irad","Brown, Chad",14,24.17,14,14,12,17,17,13,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"pinched st,4-5p,9p upr"
+2024,14,Epic Ride,"Beschizza, Adam","Ennis, John",20,47.57,4,5,5,9,13,14,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"stalk 4w,btw,faded,shy"
+2024,15,Fierceness,"Velazquez, John","Pletcher, Todd",16,83.21,3,3,3,5,10,15,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"hop st,vied 3w,wknd1/4"
+2024,16,Society Man,"Dettori, Lanfranco","Gargan, Danny",19,47.41,9,11,11,16,11,16,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"4wd, faded btwn 2nd"
+2024,17,Just Steel,"Asmussen, Keith","Lukas, D.",6,21.27,2,2,2,12,16,17,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"bumped early, vied"
+2024,18,Grand Mo the First,"Jaramillo, Emisael","Barboza, Victor",15,49.32,12,15,17,19,18,18,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"stdy 1M,urgd 3-4p,fade"
+2024,19,Catalytic,"Ortiz, Jose","Joseph, Saffie",5,34.82,10,9,10,20,20,19,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"contended, caved"
+2024,20,Just a Touch,"Geroux, Florent","Cox, Brad",8,11.57,11,10,9,18,19,20,22.97,46.63,1:11.31,1:37.46,2:03.34,Fast,,,,"bid, bumped, stopped"
+2025,1,Sovereignty,"Alvarado, Junior","Mott, William",16,7.98,16,16,17,4,1,1,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,Into Mischief,Crowned,Bernardini,"clip,5-6w2nd,duel,edge"
+2025,2,Journalism,"Rispoli, Umberto","McCarthy, Michael",7,3.42,10,10,11,3,2,2,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bid 5w, led, gave in"
+2025,3,Baeza,"Prat, Flavien","Shirreffs, John",19,13.86,14,15,12,7,4,3,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"stdy btw5/16,9p1/8,bid"
+2025,4,Final Gambit,"Machado, Luan","Cox, Brad",3,17.55,19,19,19,11,5,4,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"roughed start, wide"
+2025,5,Owen Almighty,"Castellano, Javier","Lynch, Brian",18,40.27,3,4,4,1,3,5,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"press 3w,led 1/4,yield"
+2025,6,Burnham Square,"Hernandez, Brian","Wilkes, Ian",8,19.65,7,7,8,12,11,6,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bumped, checked 1/2"
+2025,7,Sandman,"Ortiz, Jose","Casse, Mark",15,5.77,18,18,18,14,13,7,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bmp 6p1/2,9p1/4,mvd up"
+2025,8,East Avenue,"Franco, Manuel","Walsh, Brendan",10,41.97,6,5,6,9,10,8,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"chsd 3w,brshd btw 5/16"
+2025,9,Chunk of Gold,"Loveberry, Jareth","West, Ethan",17,29.06,8,8,5,6,6,9,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"clip beh,3-2w,chsd,yld"
+2025,10,Tiztastic,"Rosario, Joel","Asmussen, Steven",12,24.80,17,17,15,15,12,10,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"ins,traffic/steady 1/8"
+2025,11,Coal Battle,"Vargas, Juan","Briley, Lonnie",14,28.40,11,9,9,10,7,11,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"4-3w,stdy 5p btw5/16"
+2025,12,Luxor Cafe,"Moreira, Joao","Hori, Noriyuki",6,8.24,13,13,10,8,8,12,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"hopped start, steadied"
+2025,13,Neoequos,"Saez, Luis","Joseph, Saffie",2,42.58,2,2,2,2,9,13,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bumped, clear, gave in"
+2025,14,Publisher,"Ortiz, Irad","Asmussen, Steven",11,33.39,15,14,13,17,16,14,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bmpd btw early,2wd btw"
+2025,15,Citizen Bull,"Garcia, Martin","Baffert, Bob",1,13.98,1,1,1,5,14,15,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,broke out severely
+2025,16,American Promise,"Juarez, Nik","Lukas, D.",4,12.51,4,3,3,13,15,16,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bumped, early move"
+2025,17,Render Judgment,"Leparoux, Julien","McPeek, Kenneth",13,20.57,12,12,14,18,18,17,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"bump st,3w,done early"
+2025,18,Flying Mohawk,"Ramos, Joseph","Beckman, D. Whitworth",9,28.39,9,11,16,19,19,18,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"jostled early, empty"
+2025,19,Admire Daytona (JPN),"Lemaire, Christophe","Kato, Yukihiro",5,42.85,5,6,7,16,17,19,22.81,46.23,1:10.78,1:36.84,2:02.31,Sloppy,,,,"in tight start, faded"
